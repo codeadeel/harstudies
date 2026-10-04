@@ -1,0 +1,11 @@
+item,value
+training windows,7352.000000
+test windows,2947.000000
+training participants,21.000000
+test participants,9.000000
+participants in both splits,0.000000
+feature columns,561.000000
+float64 feature columns,561.000000
+missing feature values,0.000000
+activities,6.000000
+largest absolute difference between numpy.loadtxt and pandas on X_train.txt,0.000000

@@ -1,0 +1,2 @@
+accuracy,macroF1,trainWindows,testWindows,trainSubjects,testSubjects,sharedSubjects
+0.931795,0.931281,7352,2947,21,9,0

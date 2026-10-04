@@ -1,0 +1,3 @@
+workflow,setting,groupFoldMacroF1Mean,groupFoldMacroF1Std,testAccuracy,testMacroF1
+Pipeline,StandardScaler then LinearDiscriminantAnalysis,0.950502,0.032333,0.962335,0.962618
+FeatureUnion,"StandardScaler, then PCA ( 20 ) joined with SelectKBest f_classif ( 20 ), then logistic regression",0.900723,0.051000,0.901934,0.899972

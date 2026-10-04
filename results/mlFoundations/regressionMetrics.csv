@@ -1,0 +1,3 @@
+regressor,setting,meanAbsoluteError,meanSquaredError,r2
+linearRegression,ordinary least squares,41.548507,2848.310651,0.484906
+randomForest,100 trees,43.736396,3010.112568,0.455645

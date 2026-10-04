@@ -1,0 +1,4 @@
+metric,value
+accuracy,0.954530
+"ROC AUC, one against the rest, macro average",0.997536
+log loss,0.138832

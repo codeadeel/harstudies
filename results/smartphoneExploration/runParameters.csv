@@ -1,0 +1,71 @@
+section,parameter,value
+run,randomSeed,42
+run,nJobs,4
+run,python,3.12.14
+run,numpy,2.5.3
+run,pandas,3.0.6
+run,scipy,1.18.1
+run,scikit-learn,1.9.1
+run,lightgbm,4.7.0
+run,matplotlib,3.11.2
+data,windows,10299
+data,trainWindows,7352
+data,testWindows,2947
+data,features,561
+data,subjects,30
+data,trainSubjects,21
+data,testSubjects,9
+data,sharedSubjects,0
+data,repeatedFeatureNames,42
+data,renamedFeatures,84
+data,renamedSuffixes,".1, .2"
+data,repeatedNameFunctions,bandsEnergy()
+data,samplingRateHz,50.0
+data,windowSamples,128
+data,windowSeconds,2.56
+data,windowStepSeconds,1.28
+data,neighbourPairs,10298
+data,continuedPairs,9442
+data,recordingBouts,857
+tsne,standardised,True
+tsne,pcaComponents,50
+tsne,pcaSolver,full
+tsne,pcaExplainedVariance,0.870989847252817
+tsne,perplexity,30.0
+tsne,init,pca
+tsne,learningRate,auto
+tsne,learningRateUsed,214.5625
+tsne,maxIterations,1000
+tsne,nIterAttribute,999
+tsne,klDivergence,1.7754861116409302
+lightgbm,addedSettings,"random_state=42, n_jobs=4, deterministic=True, force_col_wise=True, verbose=-1"
+participantIdentification,testFraction,0.25
+participantIdentification,stratifiedBy,subject
+participantIdentification,splitFunction,sklearn train_test_split within each activity
+participantIdentification,boutHeldOutSplit,"all 4 folds of sklearn StratifiedGroupKFold, stratified by subject, grouped by recording bout, shuffled with the run seed"
+participantIdentification,boutHeldOutSpread,mean and sample standard deviation ( ddof 1 ) over the folds
+walkingSensors,headlineImportance,split
+walkingSensors,model,5.1 WALKING participant model
+ssa,participant,1
+ssa,series,"Euclidean norm of tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z"
+ssa,windowLengthRule,"half the series length, rounded down"
+ssa,trendComponent,1
+ssa,oscillationComponents,2 and 3
+ssa,pairCorrelationThreshold,0.5
+ssa,nyquistHz,0.390625
+cadence,lowFrequencyHz,0.5
+cadence,highFrequencyHz,3.0
+cadence,welchSegmentSamples,512
+cadence,minimumBoutSeconds,10.24
+cadence,fftLength,8192
+cadence,harmonicCount,4
+cadence,strideCandidateLowHz,0.25
+cadence,strideCandidateHighHz,1.5
+cadence,strideLagLowSeconds,0.6666666666666666
+cadence,strideLagHighSeconds,4.0
+cadence,rawSamplingRateHz,50.0
+cadence,rawNyquistHz,25.0
+cadence,walkingBouts,127
+cadence,usedBouts,124
+cadence,maxWindowMeanStepGain,0.0709134096224748
+cadence,maxWindowMeanStrideGain,0.128374544737142

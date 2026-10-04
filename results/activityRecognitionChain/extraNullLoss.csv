@@ -1,0 +1,45 @@
+sensorSet,scheme,classLabel,className,frames,recall,shareLostToNull,shareOfMissesToNull
+handAccelerometer,personDependent,2,Open window,5371,0.627630,0.194563,0.522500
+handAccelerometer,personDependent,3,Drink,7866,0.766718,0.090643,0.388556
+handAccelerometer,personDependent,4,Water plant,8210,0.624848,0.146894,0.391558
+handAccelerometer,personDependent,5,Close window,6354,0.591281,0.171545,0.419715
+handAccelerometer,personDependent,6,Cut,9310,0.742642,0.100000,0.388564
+handAccelerometer,personDependent,7,Chop,9040,0.728761,0.058407,0.215334
+handAccelerometer,personDependent,8,Stir,9594,0.749218,0.120596,0.480881
+handAccelerometer,personDependent,9,Book,12992,0.746305,0.121613,0.479369
+handAccelerometer,personDependent,10,Forehand,4124,0.708050,0.133851,0.458472
+handAccelerometer,personDependent,11,Backhand,3622,0.736057,0.125897,0.476987
+handAccelerometer,personDependent,12,Smash,3376,0.715640,0.153732,0.540625
+handAccelerometer,personIndependent,2,Open window,5371,0.319866,0.307578,0.452231
+handAccelerometer,personIndependent,3,Drink,7866,0.485762,0.320112,0.622497
+handAccelerometer,personIndependent,4,Water plant,8210,0.000000,0.392083,0.392083
+handAccelerometer,personIndependent,5,Close window,6354,0.260308,0.286276,0.387021
+handAccelerometer,personIndependent,6,Cut,9310,0.385070,0.167347,0.272140
+handAccelerometer,personIndependent,7,Chop,9040,0.592367,0.110177,0.270285
+handAccelerometer,personIndependent,8,Stir,9594,0.556598,0.179383,0.404560
+handAccelerometer,personIndependent,9,Book,12992,0.221675,0.147244,0.189181
+handAccelerometer,personIndependent,10,Forehand,4124,0.179680,0.359845,0.438664
+handAccelerometer,personIndependent,11,Backhand,3622,0.069299,0.145776,0.156630
+handAccelerometer,personIndependent,12,Smash,3376,0.186611,0.224230,0.275674
+allSensors,personDependent,2,Open window,5371,0.818470,0.150065,0.826667
+allSensors,personDependent,3,Drink,7866,0.881007,0.067379,0.566239
+allSensors,personDependent,4,Water plant,8210,0.868088,0.090499,0.686057
+allSensors,personDependent,5,Close window,6354,0.839943,0.108436,0.677483
+allSensors,personDependent,6,Cut,9310,0.858432,0.073792,0.521244
+allSensors,personDependent,7,Chop,9040,0.862832,0.072235,0.526613
+allSensors,personDependent,8,Stir,9594,0.867626,0.066291,0.500787
+allSensors,personDependent,9,Book,12992,0.906943,0.065887,0.708023
+allSensors,personDependent,10,Forehand,4124,0.824685,0.120757,0.688797
+allSensors,personDependent,11,Backhand,3622,0.848426,0.135837,0.896175
+allSensors,personDependent,12,Smash,3376,0.799467,0.117595,0.586411
+allSensors,personIndependent,2,Open window,5371,0.242972,0.223236,0.294884
+allSensors,personIndependent,3,Drink,7866,0.369057,0.342741,0.543220
+allSensors,personIndependent,4,Water plant,8210,0.531060,0.253593,0.540779
+allSensors,personIndependent,5,Close window,6354,0.558546,0.161630,0.366132
+allSensors,personIndependent,6,Cut,9310,0.630183,0.100215,0.270985
+allSensors,personIndependent,7,Chop,9040,0.662500,0.078097,0.231400
+allSensors,personIndependent,8,Stir,9594,0.534292,0.184803,0.396822
+allSensors,personIndependent,9,Book,12992,0.652632,0.133698,0.384888
+allSensors,personIndependent,10,Forehand,4124,0.284918,0.258729,0.361818
+allSensors,personIndependent,11,Backhand,3622,0.683048,0.189398,0.597561
+allSensors,personIndependent,12,Smash,3376,0.353673,0.244372,0.378093

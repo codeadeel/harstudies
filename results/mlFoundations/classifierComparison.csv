@@ -1,0 +1,7 @@
+classifier,setting,fitSeconds,testAccuracy,testMacroF1
+logisticRegression,"lbfgs, max_iter 2000",32.954575,0.954530,0.954374
+supportVectorMachine,"RBF kernel, C 1, gamma scale",1.306581,0.951815,0.951137
+decisionTree,default,4.237442,0.862233,0.859469
+naiveBayes,Gaussian,0.028118,0.770275,0.767235
+randomForest,100 trees,5.759878,0.926705,0.925084
+kNearestNeighbours,K 5,0.019284,0.883610,0.880526

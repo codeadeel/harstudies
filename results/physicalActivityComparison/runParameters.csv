@@ -1,0 +1,58 @@
+section,parameter,value
+run,randomSeed,42
+run,nJobs,4
+run,python,3.12.14
+run,numpy,2.5.3
+run,pandas,3.0.6
+run,scipy,1.18.1
+run,scikit-learn,1.9.1
+run,hmmlearn,0.3.3
+run,matplotlib,3.11.2
+data,subjects,10
+data,sourceRateHz,50.0
+data,targetRateHz,25.0
+data,signals,chest_x chest_y chest_z leftAnkle_x leftAnkle_y leftAnkle_z rightLowerArm_x rightLowerArm_y rightLowerArm_z
+data,placements,"chest, left ankle and right lower arm"
+data,decimation,"scipy.signal.decimate by 2: an order 8 Chebyshev type I low pass run forward and backward over each whole recording, then one sample in 2 with its label"
+data,segments,"runs of one label in the 25 Hz timeline, split at every label change; the runs without activity are then dropped, so a pause without activity ends a segment"
+data,rawSampleFraction,0.1
+data,rawSampleRule,"the same seeded share of the samples of every participant and activity, kept in time order and shared by all protocols and supervised classifiers"
+data,rawSubsampleRows,17190
+data,rawFullRows,171603
+features,windowSamples,25
+features,windowSteps,5 samples for features80 (80% overlap)
+features,overlap_features80,80.0
+features,windowRule,"windows lie inside one activity segment, so none mixes two activities or crosses a dropped gap"
+features,featureCount,168
+features,zeroCrossings,"sign changes of the window after its mean is removed, so gravity does not hide them"
+features,peakToPeakAndRange,"both are the maximum minus the minimum of the window, so the two features are identical and the forest importance splits between them"
+features,fftDcComponent,"magnitude of the zero frequency bin divided by the window length, the absolute window mean"
+features,spectralEnergy,"sum of the squared magnitudes of the one sided bins without the zero frequency bin, divided by the window length; with the odd window length of 25 samples Parseval's theorem makes this exactly 12.5 times the population variance, so after z-scoring it is the same feature as the variance and the forest importance splits between them"
+features,spectralEntropy,"entropy in bits of the one sided bin powers without the zero frequency bin, normalised to sum to one"
+features,wavelet,"orthonormal Haar wavelet, 3 levels, an odd length extended by repeating the last value; the three features use the detail coefficients of all levels"
+features,waveletFeatures,"sum of the detail coefficients, the square of that sum, and the sum of the squared coefficients as the energy"
+features,correlations,"Pearson correlation of each pair of axes of each accelerometer within the window, zero for a flat axis"
+features,norm,mean and population variance of the Euclidean norm of each accelerometer within the window
+selection,rule,"impurity importance of a 50 tree random forest on the training rows of each fold, keeping the smallest top set whose importance exceeds 80% of the total"
+classifiers,scaling,z-score with the training rows of the fold
+classifiers,tuningRule,"one inner split of the training rows that holds out one part in 3, made the way the protocol makes its outer split: one of 3 stratified folds for P1 and every 3rd remaining participant for P3; the best accuracy there wins, ties going to the smaller setting"
+protocol,innerFoldCount,3
+classifiers,neighbourCounts,"1, 3, 5"
+classifiers,treeCounts,"20, 100"
+classifiers,svmLog2CostGrid,"1, 2, 6"
+classifiers,svmLog2GammaGrid,"-7, -5, -3"
+classifiers,svmTuningRows,"the grid is fitted on 3000 inner training rows and scored on 1500 validation rows (all rows where there are fewer), each class drawn in proportion with the seed, and the chosen C and gamma are refitted on all training rows"
+classifiers,supervisedLearningGaussianMixture,"one diagonal Gaussian per class, the class proportions of the training rows as priors, and the class of highest posterior probability (scikit-learn GaussianNB)"
+classifiers,hiddenMarkovModel,"hmmlearn GMMHMM, 12 states, ergodic, 2 diagonal Gaussians per state, 20 EM iterations"
+classifiers,hmmIterations,20
+classifiers,hmmCovarianceFloor,"every variance is floored at hmmlearn's min_covar of 0.001 after each M-step, because discrete features such as zero crossings can collapse a mixture component onto one value"
+classifiers,hmmSequences,training rows in time order per participant form the training sequences; the test rows in time order per participant are decoded with Viterbi as their own sequences
+classifiers,kMeans,"12 clusters, 10 initialisations"
+classifiers,gaussianMixture,12 diagonal Gaussians
+classifiers,clusterMatching,"Hungarian assignment of clusters or states to labels, maximising the matched training rows of the fold"
+protocol,shuffledFolds,10 stratified folds over shuffled rows
+protocol,leaveOneSubjectOut,each participant is the test set once
+protocol,metrics,"accuracy; precision, recall and specificity per class averaged over the classes; F as in Attal et al.'s equation 10 with beta 1 from the averaged precision and recall; macro F1 as the mean of the per class F1"
+protocol,fBeta,1.0
+protocol,paperFTolerance,0.01
+protocol,foldAveraging,each metric is computed per fold and averaged over the folds; standard deviations use one degree of freedom less than the fold count

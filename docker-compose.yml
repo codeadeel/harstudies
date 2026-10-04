@@ -1,0 +1,10 @@
+# This file is responsible for running JupyterLab with every study in one container
+services:
+  lab:
+    build: .
+    image: har-studies-lab:latest
+    init: true
+    ports:
+      - "127.0.0.1:8888:8888"
+    volumes:
+      - .:/app

@@ -1,0 +1,4 @@
+method,setting,clusters,adjustedRandIndex
+kMeans,"6 clusters, 10 initialisations",6,0.439494
+meanShift,bandwidth 13.109 from quantile 0.2,10,0.320836
+hierarchical,"6 clusters, ward linkage",6,0.391814

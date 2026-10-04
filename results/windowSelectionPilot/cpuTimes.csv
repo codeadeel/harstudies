@@ -1,0 +1,8 @@
+part,component,cpuSeconds,windows,microsecondsPerWindow
+scoring,score 1: variance of the acceleration magnitude,1.352928,110558,12.237268
+scoring,score 2: change from the previous window,1.501836,110558,13.584142
+scoring,score 3: spectral entropy,1.932212,110558,17.476908
+scoring,all three scores,4.786975,110558,43.298318
+recognizer,features,6.296240,110558,56.949652
+recognizer,forest prediction,3.631723,110558,32.849026
+recognizer,features and forest prediction,9.927962,110558,89.798678

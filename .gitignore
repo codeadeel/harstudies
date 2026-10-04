@@ -1,0 +1,8 @@
+# Datasets are downloaded on the first run
+data/
+
+# Python caches and editor files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

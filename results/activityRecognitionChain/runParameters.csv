@@ -1,0 +1,70 @@
+section,parameter,value
+run,randomSeed,42
+run,nJobs,4
+run,python,3.12.14
+run,numpy,2.5.3
+run,pandas,3.0.6
+run,scipy,1.18.1
+run,scikit-learn,1.9.1
+run,hmmlearn,0.3.3
+run,matplotlib,3.11.2
+protocol,windowSeconds,1.0
+protocol,stepSeconds,1.0
+protocol,toolboxStepSeconds,0.1
+protocol,toolboxSweepStepSeconds,0.05
+protocol,toolboxStepSamples,3
+protocol,toolboxSweepStepSamples,2
+protocol,sweepStepRule,the step equals the window below 1 s and is 1 s from there up
+protocol,windowLabelRule,"majority label of the window frames, a tie going to the centre frame's label when that label is among the tied ones and otherwise to the lowest tied label"
+protocol,frameMappingRule,"every frame takes the prediction of the test window whose geometric centre (start plus half of the window length minus one) is nearest, ties to the earlier window; block membership, label ties and event scoring use the centre frame (start plus half the window length, rounded down)"
+protocol,featureScaling,z-score with the training windows of the round
+protocol,zeroCrossingLine,"mean of the channel over the whole recording, test frames included (in the person-independent scheme the test participant's own recording); it uses no labels"
+protocol,purging,training windows that share frames with the held out windows or with the held out block are dropped
+protocol,roundAveraging,metrics are computed per cross validation round and averaged over rounds
+protocol,precisionConvention,a class never predicted in a round has precision zero; the Defined columns leave it out instead
+protocol,sweepWindowSeconds,"0.1, 0.25, 0.5, 1, 2, 3, 4, 5, 6, 7, 8"
+protocol,maximumSweepWindowSeconds,8.0
+protocol,selectedFeatureCounts,"1, 5, 10, 20, 25, 50, 150, 200, 250, 300"
+features,bandCount,4
+features,bandUpperEdges,"1/8, 1/4, 1/2 and all of the spectrum"
+features,cepstralCount,10
+features,allFeaturesPerChannel,20
+features,energyDefinition,"the one-sided power sum of the mean removed window divided by the window length, about half the window length times the variance"
+features,rawDefinition,"Raw uses every frame as one instance (one frame windows), as the paper defines it; RawWindow concatenates the frames of each paper window"
+classifiers,kNearestNeighbourK,1
+classifiers,toolboxNearestNeighboursK,5
+classifiers,svmKernel,rbf
+classifiers,svmCostGrid,"1, 10, 100, 1000"
+classifiers,svmGammaGrid,"0.001, 0.01, 0.1, 1"
+classifiers,svmInnerFolds,4
+classifiers,svmSearch,"GroupKFold over the repetitions of the training rows, scored by macro F1 on windows"
+classifiers,svmGridNote,"the grid was widened after trial runs whose inner search chose the upper edge of narrower grids, first for C and then for gamma"
+classifiers,adaBoostRounds,50
+classifiers,adaBoostWeakLearner,depth-one decision trees (the scikit-learn default)
+classifiers,toolboxStepClassifiers,"linearDiscriminant, gaussianNaiveBayes, adaBoost, kNearestNeighbour"
+classifiers,hmmStates,3
+classifiers,hmmEmIterations,10
+classifiers,hmmTopology,"left-right topology, start in state one, initial stay probability 0.9, one diagonal Gaussian per state"
+classifiers,hmmInput,"raw frames of the window, channels z-scored with the frames the training windows cover"
+classifiers,hmmDecision,"there is one model per class, and each test window goes to the class whose model gives it the highest log-likelihood"
+classifiers,mrmrCriterion,mutual information difference (relevance minus mean redundancy)
+classifiers,mrmrDiscretisation,three levels split at the training mean minus and plus one standard deviation
+data,framesSubject1,62480
+data,minutesSubject1,32.541666666666664
+data,repetitionBlocksSubject1,26
+data,framesSubject2,70778
+data,minutesSubject2,36.86354166666667
+data,repetitionBlocksSubject2,26
+data,channels,15
+data,channelNames,acc_1_x acc_1_y acc_1_z gyr_1_x gyr_1_y acc_2_x acc_2_y acc_2_z gyr_2_x gyr_2_y acc_3_x acc_3_y acc_3_z gyr_3_x gyr_3_y
+data,samplingRateHz,32.0
+data,classes,12
+data,classNames,1 NULL; 2 Open window; 3 Drink; 4 Water plant; 5 Close window; 6 Cut; 7 Chop; 8 Stir; 9 Book; 10 Forehand; 11 Backhand; 12 Smash
+data,placements,IMU 1 hand; IMU 2 lowerArm; IMU 3 upperArm
+data,everyBlockHoldsEachGestureOnce,True
+dataFills,detectionRule,"every channel of that IMU holds a fractional value, although the sensors record whole numbers"
+classifiers,svmEdgeRounds handAccelerometer,10 of 54
+classifiers,svmEdgeRounds allSensors,0 of 54
+dataFills,replacementMean,every filled frame of an IMU gets that IMU's per channel mean over its unfilled frames
+dataFills,replacementInterpolate,"every filled frame of an IMU gets, per channel, the straight line between the nearest unfilled frames before and after it, or the nearest unfilled value at a recording edge"
+protocol,zeroLineAlternative,the training participant's channel means as the zero line of both recordings

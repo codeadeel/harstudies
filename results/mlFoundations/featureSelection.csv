@@ -1,0 +1,5 @@
+method,setting,kept,testAccuracy,testMacroF1
+SelectKBest,chi2 on unit range features,20,0.820156,0.815470
+RFE,"logistic regression, step 0.1",20,0.920597,0.920139
+PCA,standardized features,20,0.874788,0.873049
+tree importance,"extra trees, 100 trees",20,0.859179,0.856700

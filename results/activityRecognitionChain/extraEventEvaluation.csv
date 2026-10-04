@@ -1,0 +1,9 @@
+sensorSet,classifier,scheme,precisionAll,recallAll,precisionNonNull,recallNonNull,eventPrecisionAll,eventRecallAll,eventPrecisionNonNull,eventRecallNonNull,detectedGestureSegmentShare
+handAccelerometer,kNearestNeighbour,personDependent,0.738572,0.708650,0.740725,0.705046,0.756330,0.729141,0.756831,0.723407,0.989510
+handAccelerometer,kNearestNeighbour,personIndependent,0.388413,0.327113,0.364124,0.296833,0.388331,0.327505,0.363575,0.296714,0.624126
+handAccelerometer,nearestClassCentroid,personDependent,0.670518,0.564029,0.671258,0.542393,0.674642,0.574673,0.673533,0.550735,0.928322
+handAccelerometer,nearestClassCentroid,personIndependent,0.431017,0.382137,0.400639,0.368743,0.434612,0.388519,0.402051,0.373941,0.674825
+allSensors,kNearestNeighbour,personDependent,0.843066,0.847975,0.849258,0.856203,0.867667,0.875823,0.871902,0.882380,0.996503
+allSensors,kNearestNeighbour,personIndependent,0.579537,0.519301,0.565920,0.501676,0.586706,0.524790,0.572558,0.506648,0.868881
+allSensors,nearestClassCentroid,personDependent,0.744935,0.613830,0.752824,0.593554,0.748806,0.624009,0.755401,0.602026,0.963287
+allSensors,nearestClassCentroid,personIndependent,0.554158,0.479028,0.531457,0.468940,0.560894,0.486611,0.536192,0.475179,0.868881

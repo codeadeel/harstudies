@@ -1,0 +1,577 @@
+sensorSet,scheme,trueClass,predictedClass,frames
+handAccelerometer,personDependent,NULL,NULL,39078
+handAccelerometer,personDependent,NULL,Open window,1228
+handAccelerometer,personDependent,NULL,Drink,1620
+handAccelerometer,personDependent,NULL,Water plant,1397
+handAccelerometer,personDependent,NULL,Close window,2153
+handAccelerometer,personDependent,NULL,Cut,986
+handAccelerometer,personDependent,NULL,Chop,1263
+handAccelerometer,personDependent,NULL,Stir,1336
+handAccelerometer,personDependent,NULL,Book,2081
+handAccelerometer,personDependent,NULL,Forehand,882
+handAccelerometer,personDependent,NULL,Backhand,715
+handAccelerometer,personDependent,NULL,Smash,660
+handAccelerometer,personDependent,Open window,NULL,1045
+handAccelerometer,personDependent,Open window,Open window,3371
+handAccelerometer,personDependent,Open window,Drink,108
+handAccelerometer,personDependent,Open window,Water plant,283
+handAccelerometer,personDependent,Open window,Close window,448
+handAccelerometer,personDependent,Open window,Cut,0
+handAccelerometer,personDependent,Open window,Chop,0
+handAccelerometer,personDependent,Open window,Stir,2
+handAccelerometer,personDependent,Open window,Book,45
+handAccelerometer,personDependent,Open window,Forehand,37
+handAccelerometer,personDependent,Open window,Backhand,0
+handAccelerometer,personDependent,Open window,Smash,32
+handAccelerometer,personDependent,Drink,NULL,713
+handAccelerometer,personDependent,Drink,Open window,134
+handAccelerometer,personDependent,Drink,Drink,6031
+handAccelerometer,personDependent,Drink,Water plant,345
+handAccelerometer,personDependent,Drink,Close window,171
+handAccelerometer,personDependent,Drink,Cut,32
+handAccelerometer,personDependent,Drink,Chop,80
+handAccelerometer,personDependent,Drink,Stir,56
+handAccelerometer,personDependent,Drink,Book,285
+handAccelerometer,personDependent,Drink,Forehand,2
+handAccelerometer,personDependent,Drink,Backhand,17
+handAccelerometer,personDependent,Drink,Smash,0
+handAccelerometer,personDependent,Water plant,NULL,1206
+handAccelerometer,personDependent,Water plant,Open window,339
+handAccelerometer,personDependent,Water plant,Drink,437
+handAccelerometer,personDependent,Water plant,Water plant,5130
+handAccelerometer,personDependent,Water plant,Close window,204
+handAccelerometer,personDependent,Water plant,Cut,173
+handAccelerometer,personDependent,Water plant,Chop,128
+handAccelerometer,personDependent,Water plant,Stir,271
+handAccelerometer,personDependent,Water plant,Book,322
+handAccelerometer,personDependent,Water plant,Forehand,0
+handAccelerometer,personDependent,Water plant,Backhand,0
+handAccelerometer,personDependent,Water plant,Smash,0
+handAccelerometer,personDependent,Close window,NULL,1090
+handAccelerometer,personDependent,Close window,Open window,498
+handAccelerometer,personDependent,Close window,Drink,317
+handAccelerometer,personDependent,Close window,Water plant,310
+handAccelerometer,personDependent,Close window,Close window,3757
+handAccelerometer,personDependent,Close window,Cut,2
+handAccelerometer,personDependent,Close window,Chop,64
+handAccelerometer,personDependent,Close window,Stir,74
+handAccelerometer,personDependent,Close window,Book,171
+handAccelerometer,personDependent,Close window,Forehand,71
+handAccelerometer,personDependent,Close window,Backhand,0
+handAccelerometer,personDependent,Close window,Smash,0
+handAccelerometer,personDependent,Cut,NULL,931
+handAccelerometer,personDependent,Cut,Open window,0
+handAccelerometer,personDependent,Cut,Drink,64
+handAccelerometer,personDependent,Cut,Water plant,240
+handAccelerometer,personDependent,Cut,Close window,113
+handAccelerometer,personDependent,Cut,Cut,6914
+handAccelerometer,personDependent,Cut,Chop,616
+handAccelerometer,personDependent,Cut,Stir,134
+handAccelerometer,personDependent,Cut,Book,265
+handAccelerometer,personDependent,Cut,Forehand,32
+handAccelerometer,personDependent,Cut,Backhand,0
+handAccelerometer,personDependent,Cut,Smash,1
+handAccelerometer,personDependent,Chop,NULL,528
+handAccelerometer,personDependent,Chop,Open window,0
+handAccelerometer,personDependent,Chop,Drink,131
+handAccelerometer,personDependent,Chop,Water plant,194
+handAccelerometer,personDependent,Chop,Close window,164
+handAccelerometer,personDependent,Chop,Cut,744
+handAccelerometer,personDependent,Chop,Chop,6588
+handAccelerometer,personDependent,Chop,Stir,193
+handAccelerometer,personDependent,Chop,Book,498
+handAccelerometer,personDependent,Chop,Forehand,0
+handAccelerometer,personDependent,Chop,Backhand,0
+handAccelerometer,personDependent,Chop,Smash,0
+handAccelerometer,personDependent,Stir,NULL,1157
+handAccelerometer,personDependent,Stir,Open window,32
+handAccelerometer,personDependent,Stir,Drink,32
+handAccelerometer,personDependent,Stir,Water plant,281
+handAccelerometer,personDependent,Stir,Close window,64
+handAccelerometer,personDependent,Stir,Cut,162
+handAccelerometer,personDependent,Stir,Chop,153
+handAccelerometer,personDependent,Stir,Stir,7188
+handAccelerometer,personDependent,Stir,Book,510
+handAccelerometer,personDependent,Stir,Forehand,15
+handAccelerometer,personDependent,Stir,Backhand,0
+handAccelerometer,personDependent,Stir,Smash,0
+handAccelerometer,personDependent,Book,NULL,1580
+handAccelerometer,personDependent,Book,Open window,46
+handAccelerometer,personDependent,Book,Drink,119
+handAccelerometer,personDependent,Book,Water plant,268
+handAccelerometer,personDependent,Book,Close window,73
+handAccelerometer,personDependent,Book,Cut,428
+handAccelerometer,personDependent,Book,Chop,285
+handAccelerometer,personDependent,Book,Stir,486
+handAccelerometer,personDependent,Book,Book,9696
+handAccelerometer,personDependent,Book,Forehand,11
+handAccelerometer,personDependent,Book,Backhand,0
+handAccelerometer,personDependent,Book,Smash,0
+handAccelerometer,personDependent,Forehand,NULL,552
+handAccelerometer,personDependent,Forehand,Open window,45
+handAccelerometer,personDependent,Forehand,Drink,66
+handAccelerometer,personDependent,Forehand,Water plant,0
+handAccelerometer,personDependent,Forehand,Close window,54
+handAccelerometer,personDependent,Forehand,Cut,31
+handAccelerometer,personDependent,Forehand,Chop,7
+handAccelerometer,personDependent,Forehand,Stir,20
+handAccelerometer,personDependent,Forehand,Book,49
+handAccelerometer,personDependent,Forehand,Forehand,2920
+handAccelerometer,personDependent,Forehand,Backhand,126
+handAccelerometer,personDependent,Forehand,Smash,254
+handAccelerometer,personDependent,Backhand,NULL,456
+handAccelerometer,personDependent,Backhand,Open window,58
+handAccelerometer,personDependent,Backhand,Drink,49
+handAccelerometer,personDependent,Backhand,Water plant,0
+handAccelerometer,personDependent,Backhand,Close window,19
+handAccelerometer,personDependent,Backhand,Cut,0
+handAccelerometer,personDependent,Backhand,Chop,0
+handAccelerometer,personDependent,Backhand,Stir,0
+handAccelerometer,personDependent,Backhand,Book,0
+handAccelerometer,personDependent,Backhand,Forehand,282
+handAccelerometer,personDependent,Backhand,Backhand,2666
+handAccelerometer,personDependent,Backhand,Smash,92
+handAccelerometer,personDependent,Smash,NULL,519
+handAccelerometer,personDependent,Smash,Open window,9
+handAccelerometer,personDependent,Smash,Drink,8
+handAccelerometer,personDependent,Smash,Water plant,0
+handAccelerometer,personDependent,Smash,Close window,12
+handAccelerometer,personDependent,Smash,Cut,0
+handAccelerometer,personDependent,Smash,Chop,0
+handAccelerometer,personDependent,Smash,Stir,0
+handAccelerometer,personDependent,Smash,Book,0
+handAccelerometer,personDependent,Smash,Forehand,320
+handAccelerometer,personDependent,Smash,Backhand,92
+handAccelerometer,personDependent,Smash,Smash,2416
+allSensors,personDependent,NULL,NULL,40252
+allSensors,personDependent,NULL,Open window,838
+allSensors,personDependent,NULL,Drink,1574
+allSensors,personDependent,NULL,Water plant,1723
+allSensors,personDependent,NULL,Close window,1474
+allSensors,personDependent,NULL,Cut,944
+allSensors,personDependent,NULL,Chop,623
+allSensors,personDependent,NULL,Stir,1794
+allSensors,personDependent,NULL,Book,2249
+allSensors,personDependent,NULL,Forehand,793
+allSensors,personDependent,NULL,Backhand,658
+allSensors,personDependent,NULL,Smash,477
+allSensors,personDependent,Open window,NULL,806
+allSensors,personDependent,Open window,Open window,4396
+allSensors,personDependent,Open window,Drink,30
+allSensors,personDependent,Open window,Water plant,0
+allSensors,personDependent,Open window,Close window,60
+allSensors,personDependent,Open window,Cut,11
+allSensors,personDependent,Open window,Chop,0
+allSensors,personDependent,Open window,Stir,15
+allSensors,personDependent,Open window,Book,21
+allSensors,personDependent,Open window,Forehand,32
+allSensors,personDependent,Open window,Backhand,0
+allSensors,personDependent,Open window,Smash,0
+allSensors,personDependent,Drink,NULL,530
+allSensors,personDependent,Drink,Open window,46
+allSensors,personDependent,Drink,Drink,6930
+allSensors,personDependent,Drink,Water plant,271
+allSensors,personDependent,Drink,Close window,0
+allSensors,personDependent,Drink,Cut,0
+allSensors,personDependent,Drink,Chop,0
+allSensors,personDependent,Drink,Stir,49
+allSensors,personDependent,Drink,Book,40
+allSensors,personDependent,Drink,Forehand,0
+allSensors,personDependent,Drink,Backhand,0
+allSensors,personDependent,Drink,Smash,0
+allSensors,personDependent,Water plant,NULL,743
+allSensors,personDependent,Water plant,Open window,16
+allSensors,personDependent,Water plant,Drink,162
+allSensors,personDependent,Water plant,Water plant,7127
+allSensors,personDependent,Water plant,Close window,0
+allSensors,personDependent,Water plant,Cut,0
+allSensors,personDependent,Water plant,Chop,29
+allSensors,personDependent,Water plant,Stir,71
+allSensors,personDependent,Water plant,Book,62
+allSensors,personDependent,Water plant,Forehand,0
+allSensors,personDependent,Water plant,Backhand,0
+allSensors,personDependent,Water plant,Smash,0
+allSensors,personDependent,Close window,NULL,689
+allSensors,personDependent,Close window,Open window,176
+allSensors,personDependent,Close window,Drink,18
+allSensors,personDependent,Close window,Water plant,90
+allSensors,personDependent,Close window,Close window,5337
+allSensors,personDependent,Close window,Cut,0
+allSensors,personDependent,Close window,Chop,0
+allSensors,personDependent,Close window,Stir,0
+allSensors,personDependent,Close window,Book,14
+allSensors,personDependent,Close window,Forehand,30
+allSensors,personDependent,Close window,Backhand,0
+allSensors,personDependent,Close window,Smash,0
+allSensors,personDependent,Cut,NULL,687
+allSensors,personDependent,Cut,Open window,0
+allSensors,personDependent,Cut,Drink,0
+allSensors,personDependent,Cut,Water plant,0
+allSensors,personDependent,Cut,Close window,32
+allSensors,personDependent,Cut,Cut,7992
+allSensors,personDependent,Cut,Chop,450
+allSensors,personDependent,Cut,Stir,32
+allSensors,personDependent,Cut,Book,117
+allSensors,personDependent,Cut,Forehand,0
+allSensors,personDependent,Cut,Backhand,0
+allSensors,personDependent,Cut,Smash,0
+allSensors,personDependent,Chop,NULL,653
+allSensors,personDependent,Chop,Open window,0
+allSensors,personDependent,Chop,Drink,40
+allSensors,personDependent,Chop,Water plant,0
+allSensors,personDependent,Chop,Close window,0
+allSensors,personDependent,Chop,Cut,415
+allSensors,personDependent,Chop,Chop,7800
+allSensors,personDependent,Chop,Stir,20
+allSensors,personDependent,Chop,Book,112
+allSensors,personDependent,Chop,Forehand,0
+allSensors,personDependent,Chop,Backhand,0
+allSensors,personDependent,Chop,Smash,0
+allSensors,personDependent,Stir,NULL,636
+allSensors,personDependent,Stir,Open window,0
+allSensors,personDependent,Stir,Drink,15
+allSensors,personDependent,Stir,Water plant,0
+allSensors,personDependent,Stir,Close window,0
+allSensors,personDependent,Stir,Cut,32
+allSensors,personDependent,Stir,Chop,53
+allSensors,personDependent,Stir,Stir,8324
+allSensors,personDependent,Stir,Book,534
+allSensors,personDependent,Stir,Forehand,0
+allSensors,personDependent,Stir,Backhand,0
+allSensors,personDependent,Stir,Smash,0
+allSensors,personDependent,Book,NULL,856
+allSensors,personDependent,Book,Open window,0
+allSensors,personDependent,Book,Drink,23
+allSensors,personDependent,Book,Water plant,0
+allSensors,personDependent,Book,Close window,7
+allSensors,personDependent,Book,Cut,110
+allSensors,personDependent,Book,Chop,2
+allSensors,personDependent,Book,Stir,211
+allSensors,personDependent,Book,Book,11783
+allSensors,personDependent,Book,Forehand,0
+allSensors,personDependent,Book,Backhand,0
+allSensors,personDependent,Book,Smash,0
+allSensors,personDependent,Forehand,NULL,498
+allSensors,personDependent,Forehand,Open window,0
+allSensors,personDependent,Forehand,Drink,49
+allSensors,personDependent,Forehand,Water plant,7
+allSensors,personDependent,Forehand,Close window,0
+allSensors,personDependent,Forehand,Cut,0
+allSensors,personDependent,Forehand,Chop,3
+allSensors,personDependent,Forehand,Stir,0
+allSensors,personDependent,Forehand,Book,0
+allSensors,personDependent,Forehand,Forehand,3401
+allSensors,personDependent,Forehand,Backhand,0
+allSensors,personDependent,Forehand,Smash,166
+allSensors,personDependent,Backhand,NULL,492
+allSensors,personDependent,Backhand,Open window,0
+allSensors,personDependent,Backhand,Drink,0
+allSensors,personDependent,Backhand,Water plant,8
+allSensors,personDependent,Backhand,Close window,5
+allSensors,personDependent,Backhand,Cut,0
+allSensors,personDependent,Backhand,Chop,0
+allSensors,personDependent,Backhand,Stir,0
+allSensors,personDependent,Backhand,Book,1
+allSensors,personDependent,Backhand,Forehand,37
+allSensors,personDependent,Backhand,Backhand,3073
+allSensors,personDependent,Backhand,Smash,6
+allSensors,personDependent,Smash,NULL,397
+allSensors,personDependent,Smash,Open window,0
+allSensors,personDependent,Smash,Drink,0
+allSensors,personDependent,Smash,Water plant,54
+allSensors,personDependent,Smash,Close window,29
+allSensors,personDependent,Smash,Cut,0
+allSensors,personDependent,Smash,Chop,0
+allSensors,personDependent,Smash,Stir,0
+allSensors,personDependent,Smash,Book,1
+allSensors,personDependent,Smash,Forehand,183
+allSensors,personDependent,Smash,Backhand,13
+allSensors,personDependent,Smash,Smash,2699
+handAccelerometer,personIndependent,NULL,NULL,36181
+handAccelerometer,personIndependent,NULL,Open window,1440
+handAccelerometer,personIndependent,NULL,Drink,1180
+handAccelerometer,personIndependent,NULL,Water plant,1049
+handAccelerometer,personIndependent,NULL,Close window,768
+handAccelerometer,personIndependent,NULL,Cut,774
+handAccelerometer,personIndependent,NULL,Chop,879
+handAccelerometer,personIndependent,NULL,Stir,1790
+handAccelerometer,personIndependent,NULL,Book,1420
+handAccelerometer,personIndependent,NULL,Forehand,6539
+handAccelerometer,personIndependent,NULL,Backhand,928
+handAccelerometer,personIndependent,NULL,Smash,451
+handAccelerometer,personIndependent,Open window,NULL,1652
+handAccelerometer,personIndependent,Open window,Open window,1718
+handAccelerometer,personIndependent,Open window,Drink,97
+handAccelerometer,personIndependent,Open window,Water plant,680
+handAccelerometer,personIndependent,Open window,Close window,345
+handAccelerometer,personIndependent,Open window,Cut,74
+handAccelerometer,personIndependent,Open window,Chop,40
+handAccelerometer,personIndependent,Open window,Stir,130
+handAccelerometer,personIndependent,Open window,Book,352
+handAccelerometer,personIndependent,Open window,Forehand,170
+handAccelerometer,personIndependent,Open window,Backhand,84
+handAccelerometer,personIndependent,Open window,Smash,29
+handAccelerometer,personIndependent,Drink,NULL,2518
+handAccelerometer,personIndependent,Drink,Open window,186
+handAccelerometer,personIndependent,Drink,Drink,3821
+handAccelerometer,personIndependent,Drink,Water plant,120
+handAccelerometer,personIndependent,Drink,Close window,266
+handAccelerometer,personIndependent,Drink,Cut,266
+handAccelerometer,personIndependent,Drink,Chop,156
+handAccelerometer,personIndependent,Drink,Stir,70
+handAccelerometer,personIndependent,Drink,Book,76
+handAccelerometer,personIndependent,Drink,Forehand,341
+handAccelerometer,personIndependent,Drink,Backhand,46
+handAccelerometer,personIndependent,Drink,Smash,0
+handAccelerometer,personIndependent,Water plant,NULL,3219
+handAccelerometer,personIndependent,Water plant,Open window,1068
+handAccelerometer,personIndependent,Water plant,Drink,663
+handAccelerometer,personIndependent,Water plant,Water plant,0
+handAccelerometer,personIndependent,Water plant,Close window,984
+handAccelerometer,personIndependent,Water plant,Cut,668
+handAccelerometer,personIndependent,Water plant,Chop,548
+handAccelerometer,personIndependent,Water plant,Stir,398
+handAccelerometer,personIndependent,Water plant,Book,408
+handAccelerometer,personIndependent,Water plant,Forehand,208
+handAccelerometer,personIndependent,Water plant,Backhand,46
+handAccelerometer,personIndependent,Water plant,Smash,0
+handAccelerometer,personIndependent,Close window,NULL,1819
+handAccelerometer,personIndependent,Close window,Open window,795
+handAccelerometer,personIndependent,Close window,Drink,311
+handAccelerometer,personIndependent,Close window,Water plant,640
+handAccelerometer,personIndependent,Close window,Close window,1654
+handAccelerometer,personIndependent,Close window,Cut,102
+handAccelerometer,personIndependent,Close window,Chop,110
+handAccelerometer,personIndependent,Close window,Stir,168
+handAccelerometer,personIndependent,Close window,Book,421
+handAccelerometer,personIndependent,Close window,Forehand,312
+handAccelerometer,personIndependent,Close window,Backhand,22
+handAccelerometer,personIndependent,Close window,Smash,0
+handAccelerometer,personIndependent,Cut,NULL,1558
+handAccelerometer,personIndependent,Cut,Open window,222
+handAccelerometer,personIndependent,Cut,Drink,251
+handAccelerometer,personIndependent,Cut,Water plant,1885
+handAccelerometer,personIndependent,Cut,Close window,162
+handAccelerometer,personIndependent,Cut,Cut,3585
+handAccelerometer,personIndependent,Cut,Chop,404
+handAccelerometer,personIndependent,Cut,Stir,418
+handAccelerometer,personIndependent,Cut,Book,574
+handAccelerometer,personIndependent,Cut,Forehand,219
+handAccelerometer,personIndependent,Cut,Backhand,32
+handAccelerometer,personIndependent,Cut,Smash,0
+handAccelerometer,personIndependent,Chop,NULL,996
+handAccelerometer,personIndependent,Chop,Open window,33
+handAccelerometer,personIndependent,Chop,Drink,316
+handAccelerometer,personIndependent,Chop,Water plant,523
+handAccelerometer,personIndependent,Chop,Close window,301
+handAccelerometer,personIndependent,Chop,Cut,377
+handAccelerometer,personIndependent,Chop,Chop,5355
+handAccelerometer,personIndependent,Chop,Stir,346
+handAccelerometer,personIndependent,Chop,Book,655
+handAccelerometer,personIndependent,Chop,Forehand,101
+handAccelerometer,personIndependent,Chop,Backhand,37
+handAccelerometer,personIndependent,Chop,Smash,0
+handAccelerometer,personIndependent,Stir,NULL,1721
+handAccelerometer,personIndependent,Stir,Open window,183
+handAccelerometer,personIndependent,Stir,Drink,114
+handAccelerometer,personIndependent,Stir,Water plant,128
+handAccelerometer,personIndependent,Stir,Close window,64
+handAccelerometer,personIndependent,Stir,Cut,30
+handAccelerometer,personIndependent,Stir,Chop,144
+handAccelerometer,personIndependent,Stir,Stir,5340
+handAccelerometer,personIndependent,Stir,Book,1132
+handAccelerometer,personIndependent,Stir,Forehand,424
+handAccelerometer,personIndependent,Stir,Backhand,314
+handAccelerometer,personIndependent,Stir,Smash,0
+handAccelerometer,personIndependent,Book,NULL,1913
+handAccelerometer,personIndependent,Book,Open window,505
+handAccelerometer,personIndependent,Book,Drink,334
+handAccelerometer,personIndependent,Book,Water plant,363
+handAccelerometer,personIndependent,Book,Close window,1408
+handAccelerometer,personIndependent,Book,Cut,2752
+handAccelerometer,personIndependent,Book,Chop,1042
+handAccelerometer,personIndependent,Book,Stir,1242
+handAccelerometer,personIndependent,Book,Book,2880
+handAccelerometer,personIndependent,Book,Forehand,484
+handAccelerometer,personIndependent,Book,Backhand,69
+handAccelerometer,personIndependent,Book,Smash,0
+handAccelerometer,personIndependent,Forehand,NULL,1484
+handAccelerometer,personIndependent,Forehand,Open window,204
+handAccelerometer,personIndependent,Forehand,Drink,24
+handAccelerometer,personIndependent,Forehand,Water plant,20
+handAccelerometer,personIndependent,Forehand,Close window,0
+handAccelerometer,personIndependent,Forehand,Cut,0
+handAccelerometer,personIndependent,Forehand,Chop,18
+handAccelerometer,personIndependent,Forehand,Stir,68
+handAccelerometer,personIndependent,Forehand,Book,18
+handAccelerometer,personIndependent,Forehand,Forehand,741
+handAccelerometer,personIndependent,Forehand,Backhand,244
+handAccelerometer,personIndependent,Forehand,Smash,1303
+handAccelerometer,personIndependent,Backhand,NULL,528
+handAccelerometer,personIndependent,Backhand,Open window,79
+handAccelerometer,personIndependent,Backhand,Drink,84
+handAccelerometer,personIndependent,Backhand,Water plant,0
+handAccelerometer,personIndependent,Backhand,Close window,0
+handAccelerometer,personIndependent,Backhand,Cut,8
+handAccelerometer,personIndependent,Backhand,Chop,40
+handAccelerometer,personIndependent,Backhand,Stir,18
+handAccelerometer,personIndependent,Backhand,Book,0
+handAccelerometer,personIndependent,Backhand,Forehand,1059
+handAccelerometer,personIndependent,Backhand,Backhand,251
+handAccelerometer,personIndependent,Backhand,Smash,1555
+handAccelerometer,personIndependent,Smash,NULL,757
+handAccelerometer,personIndependent,Smash,Open window,31
+handAccelerometer,personIndependent,Smash,Drink,5
+handAccelerometer,personIndependent,Smash,Water plant,0
+handAccelerometer,personIndependent,Smash,Close window,0
+handAccelerometer,personIndependent,Smash,Cut,36
+handAccelerometer,personIndependent,Smash,Chop,32
+handAccelerometer,personIndependent,Smash,Stir,124
+handAccelerometer,personIndependent,Smash,Book,0
+handAccelerometer,personIndependent,Smash,Forehand,762
+handAccelerometer,personIndependent,Smash,Backhand,999
+handAccelerometer,personIndependent,Smash,Smash,630
+allSensors,personIndependent,NULL,NULL,37349
+allSensors,personIndependent,NULL,Open window,719
+allSensors,personIndependent,NULL,Drink,873
+allSensors,personIndependent,NULL,Water plant,6173
+allSensors,personIndependent,NULL,Close window,1531
+allSensors,personIndependent,NULL,Cut,415
+allSensors,personIndependent,NULL,Chop,1910
+allSensors,personIndependent,NULL,Stir,888
+allSensors,personIndependent,NULL,Book,2466
+allSensors,personIndependent,NULL,Forehand,217
+allSensors,personIndependent,NULL,Backhand,553
+allSensors,personIndependent,NULL,Smash,305
+allSensors,personIndependent,Open window,NULL,1199
+allSensors,personIndependent,Open window,Open window,1305
+allSensors,personIndependent,Open window,Drink,299
+allSensors,personIndependent,Open window,Water plant,797
+allSensors,personIndependent,Open window,Close window,1254
+allSensors,personIndependent,Open window,Cut,24
+allSensors,personIndependent,Open window,Chop,107
+allSensors,personIndependent,Open window,Stir,58
+allSensors,personIndependent,Open window,Book,234
+allSensors,personIndependent,Open window,Forehand,0
+allSensors,personIndependent,Open window,Backhand,94
+allSensors,personIndependent,Open window,Smash,0
+allSensors,personIndependent,Drink,NULL,2696
+allSensors,personIndependent,Drink,Open window,283
+allSensors,personIndependent,Drink,Drink,2903
+allSensors,personIndependent,Drink,Water plant,782
+allSensors,personIndependent,Drink,Close window,320
+allSensors,personIndependent,Drink,Cut,0
+allSensors,personIndependent,Drink,Chop,475
+allSensors,personIndependent,Drink,Stir,32
+allSensors,personIndependent,Drink,Book,332
+allSensors,personIndependent,Drink,Forehand,0
+allSensors,personIndependent,Drink,Backhand,33
+allSensors,personIndependent,Drink,Smash,10
+allSensors,personIndependent,Water plant,NULL,2082
+allSensors,personIndependent,Water plant,Open window,126
+allSensors,personIndependent,Water plant,Drink,416
+allSensors,personIndependent,Water plant,Water plant,4360
+allSensors,personIndependent,Water plant,Close window,248
+allSensors,personIndependent,Water plant,Cut,48
+allSensors,personIndependent,Water plant,Chop,298
+allSensors,personIndependent,Water plant,Stir,32
+allSensors,personIndependent,Water plant,Book,577
+allSensors,personIndependent,Water plant,Forehand,0
+allSensors,personIndependent,Water plant,Backhand,23
+allSensors,personIndependent,Water plant,Smash,0
+allSensors,personIndependent,Close window,NULL,1027
+allSensors,personIndependent,Close window,Open window,286
+allSensors,personIndependent,Close window,Drink,356
+allSensors,personIndependent,Close window,Water plant,932
+allSensors,personIndependent,Close window,Close window,3549
+allSensors,personIndependent,Close window,Cut,0
+allSensors,personIndependent,Close window,Chop,44
+allSensors,personIndependent,Close window,Stir,6
+allSensors,personIndependent,Close window,Book,122
+allSensors,personIndependent,Close window,Forehand,0
+allSensors,personIndependent,Close window,Backhand,0
+allSensors,personIndependent,Close window,Smash,32
+allSensors,personIndependent,Cut,NULL,933
+allSensors,personIndependent,Cut,Open window,0
+allSensors,personIndependent,Cut,Drink,42
+allSensors,personIndependent,Cut,Water plant,130
+allSensors,personIndependent,Cut,Close window,0
+allSensors,personIndependent,Cut,Cut,5867
+allSensors,personIndependent,Cut,Chop,1233
+allSensors,personIndependent,Cut,Stir,0
+allSensors,personIndependent,Cut,Book,1105
+allSensors,personIndependent,Cut,Forehand,0
+allSensors,personIndependent,Cut,Backhand,0
+allSensors,personIndependent,Cut,Smash,0
+allSensors,personIndependent,Chop,NULL,706
+allSensors,personIndependent,Chop,Open window,189
+allSensors,personIndependent,Chop,Drink,206
+allSensors,personIndependent,Chop,Water plant,38
+allSensors,personIndependent,Chop,Close window,0
+allSensors,personIndependent,Chop,Cut,300
+allSensors,personIndependent,Chop,Chop,5989
+allSensors,personIndependent,Chop,Stir,32
+allSensors,personIndependent,Chop,Book,1580
+allSensors,personIndependent,Chop,Forehand,0
+allSensors,personIndependent,Chop,Backhand,0
+allSensors,personIndependent,Chop,Smash,0
+allSensors,personIndependent,Stir,NULL,1773
+allSensors,personIndependent,Stir,Open window,63
+allSensors,personIndependent,Stir,Drink,28
+allSensors,personIndependent,Stir,Water plant,335
+allSensors,personIndependent,Stir,Close window,0
+allSensors,personIndependent,Stir,Cut,32
+allSensors,personIndependent,Stir,Chop,698
+allSensors,personIndependent,Stir,Stir,5126
+allSensors,personIndependent,Stir,Book,1539
+allSensors,personIndependent,Stir,Forehand,0
+allSensors,personIndependent,Stir,Backhand,0
+allSensors,personIndependent,Stir,Smash,0
+allSensors,personIndependent,Book,NULL,1737
+allSensors,personIndependent,Book,Open window,57
+allSensors,personIndependent,Book,Drink,125
+allSensors,personIndependent,Book,Water plant,502
+allSensors,personIndependent,Book,Close window,0
+allSensors,personIndependent,Book,Cut,160
+allSensors,personIndependent,Book,Chop,1864
+allSensors,personIndependent,Book,Stir,34
+allSensors,personIndependent,Book,Book,8479
+allSensors,personIndependent,Book,Forehand,0
+allSensors,personIndependent,Book,Backhand,0
+allSensors,personIndependent,Book,Smash,34
+allSensors,personIndependent,Forehand,NULL,1067
+allSensors,personIndependent,Forehand,Open window,53
+allSensors,personIndependent,Forehand,Drink,0
+allSensors,personIndependent,Forehand,Water plant,62
+allSensors,personIndependent,Forehand,Close window,672
+allSensors,personIndependent,Forehand,Cut,0
+allSensors,personIndependent,Forehand,Chop,32
+allSensors,personIndependent,Forehand,Stir,0
+allSensors,personIndependent,Forehand,Book,0
+allSensors,personIndependent,Forehand,Forehand,1175
+allSensors,personIndependent,Forehand,Backhand,96
+allSensors,personIndependent,Forehand,Smash,967
+allSensors,personIndependent,Backhand,NULL,686
+allSensors,personIndependent,Backhand,Open window,176
+allSensors,personIndependent,Backhand,Drink,0
+allSensors,personIndependent,Backhand,Water plant,46
+allSensors,personIndependent,Backhand,Close window,74
+allSensors,personIndependent,Backhand,Cut,2
+allSensors,personIndependent,Backhand,Chop,0
+allSensors,personIndependent,Backhand,Stir,64
+allSensors,personIndependent,Backhand,Book,50
+allSensors,personIndependent,Backhand,Forehand,32
+allSensors,personIndependent,Backhand,Backhand,2474
+allSensors,personIndependent,Backhand,Smash,18
+allSensors,personIndependent,Smash,NULL,825
+allSensors,personIndependent,Smash,Open window,7
+allSensors,personIndependent,Smash,Drink,0
+allSensors,personIndependent,Smash,Water plant,51
+allSensors,personIndependent,Smash,Close window,160
+allSensors,personIndependent,Smash,Cut,26
+allSensors,personIndependent,Smash,Chop,22
+allSensors,personIndependent,Smash,Stir,0
+allSensors,personIndependent,Smash,Book,92
+allSensors,personIndependent,Smash,Forehand,816
+allSensors,personIndependent,Smash,Backhand,183
+allSensors,personIndependent,Smash,Smash,1194

@@ -1,0 +1,81 @@
+method,rank,kept,score
+SelectKBest,1,fBodyAccJerk-entropy()-X,2769.376594
+SelectKBest,2,fBodyAccJerk-entropy()-Y,2615.230651
+SelectKBest,3,fBodyBodyAccJerkMag-entropy(),2381.916974
+SelectKBest,4,fBodyAcc-entropy()-X,2302.615261
+SelectKBest,5,fBodyAccJerk-entropy()-Z,2250.412677
+SelectKBest,6,tBodyAccJerkMag-entropy(),1975.810367
+SelectKBest,7,fBodyAcc-entropy()-Y,1952.410601
+SelectKBest,8,fBodyAccMag-entropy(),1944.189813
+SelectKBest,9,tBodyAcc-max()-X,1912.439303
+SelectKBest,10,fBodyBodyGyroJerkMag-entropy(),1816.530082
+SelectKBest,11,fBodyAcc-mad()-X,1798.868827
+SelectKBest,12,tGravityAcc-energy()-Y,1792.692770
+SelectKBest,13,fBodyAccJerk-mean()-Y,1782.126191
+SelectKBest,14,fBodyAcc-std()-X,1770.779184
+SelectKBest,15,tBodyAcc-std()-Y,1766.820082
+SelectKBest,16,fBodyAcc-mad()-Y,1761.365455
+SelectKBest,17,fBodyAcc-sma(),1753.535868
+SelectKBest,18,"angle(X,gravityMean)",1744.601363
+SelectKBest,19,fBodyAccJerk-mad()-X,1740.709858
+SelectKBest,20,tBodyAccJerk-std()-Y,1737.885826
+RFE,1,"angle(X,gravityMean)",70.664796
+RFE,2,fBodyAccMag-energy(),22.693401
+RFE,3,tBodyAccJerk-entropy()-Z,21.716716
+RFE,4,tBodyGyro-iqr()-Z,18.403992
+RFE,5,tBodyGyroJerk-entropy()-X,18.118027
+RFE,6,tGravityAcc-mean()-Y,16.284602
+RFE,7,tBodyAccJerk-entropy()-X,15.308847
+RFE,8,tBodyAccJerk-min()-X,13.852533
+RFE,9,"tGravityAcc-arCoeff()-X,1",13.461699
+RFE,10,fBodyAccMag-mad(),12.567449
+RFE,11,fBodyGyro-entropy()-Y,10.752845
+RFE,12,"tBodyAcc-correlation()-X,Y",9.982225
+RFE,13,fBodyGyro-entropy()-X,9.425514
+RFE,14,tGravityAcc-min()-Y,9.121846
+RFE,15,tBodyAccJerk-max()-Z,8.831542
+RFE,16,fBodyAccMag-skewness(),7.122537
+RFE,17,tBodyGyroMag-iqr(),7.089148
+RFE,18,tBodyAcc-min()-Y,5.878118
+RFE,19,"tBodyGyro-correlation()-Y,Z",5.149100
+RFE,20,fBodyGyro-skewness()-X,0.384614
+PCA,1,component 1,0.507812
+PCA,2,component 2,0.065807
+PCA,3,component 3,0.028064
+PCA,4,component 4,0.025040
+PCA,5,component 5,0.018883
+PCA,6,component 6,0.017240
+PCA,7,component 7,0.013710
+PCA,8,component 8,0.011991
+PCA,9,component 9,0.009959
+PCA,10,component 10,0.009651
+PCA,11,component 11,0.008601
+PCA,12,component 12,0.008003
+PCA,13,component 13,0.007640
+PCA,14,component 14,0.006453
+PCA,15,component 15,0.006323
+PCA,16,component 16,0.005997
+PCA,17,component 17,0.005868
+PCA,18,component 18,0.005754
+PCA,19,component 19,0.005679
+PCA,20,component 20,0.005273
+tree importance,1,tGravityAcc-max()-X,0.029789
+tree importance,2,tGravityAcc-min()-X,0.027964
+tree importance,3,tGravityAcc-mean()-X,0.027931
+tree importance,4,tGravityAcc-energy()-X,0.026638
+tree importance,5,tGravityAcc-min()-Y,0.024477
+tree importance,6,"angle(Y,gravityMean)",0.022138
+tree importance,7,tGravityAcc-max()-Y,0.020076
+tree importance,8,tGravityAcc-mean()-Y,0.020075
+tree importance,9,"angle(X,gravityMean)",0.019300
+tree importance,10,tGravityAcc-energy()-Y,0.014009
+tree importance,11,tBodyAcc-max()-X,0.010444
+tree importance,12,fBodyAcc-max()-X,0.010374
+tree importance,13,tGravityAcc-energy()-Z,0.010184
+tree importance,14,tGravityAcc-max()-Z,0.009324
+tree importance,15,tBodyAccJerk-sma(),0.008651
+tree importance,16,fBodyAccJerk-mad()-Y,0.008549
+tree importance,17,tGravityAcc-mean()-Z,0.007713
+tree importance,18,tBodyAccMag-std(),0.007670
+tree importance,19,fBodyAcc-mad()-X,0.007669
+tree importance,20,tGravityAccMag-std(),0.007585

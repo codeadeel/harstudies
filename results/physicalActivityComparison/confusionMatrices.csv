@@ -1,0 +1,577 @@
+variant,classifier,paperTable,trueClass,predictedClass,rows
+rawSubsample,kNearestNeighbour,5,Standing still,Standing still,1538
+rawSubsample,kNearestNeighbour,5,Standing still,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Standing still,Lying down,0
+rawSubsample,kNearestNeighbour,5,Standing still,Walking,0
+rawSubsample,kNearestNeighbour,5,Standing still,Climbing stairs,0
+rawSubsample,kNearestNeighbour,5,Standing still,Waist bends forward,2
+rawSubsample,kNearestNeighbour,5,Standing still,Frontal elevation of arms,0
+rawSubsample,kNearestNeighbour,5,Standing still,Knees bending,0
+rawSubsample,kNearestNeighbour,5,Standing still,Cycling,0
+rawSubsample,kNearestNeighbour,5,Standing still,Jogging,0
+rawSubsample,kNearestNeighbour,5,Standing still,Running,0
+rawSubsample,kNearestNeighbour,5,Standing still,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Standing still,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Sitting and relaxing,1540
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Lying down,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Walking,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Climbing stairs,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Frontal elevation of arms,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Knees bending,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Cycling,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Jogging,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Running,0
+rawSubsample,kNearestNeighbour,5,Sitting and relaxing,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Lying down,Standing still,0
+rawSubsample,kNearestNeighbour,5,Lying down,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Lying down,Lying down,1540
+rawSubsample,kNearestNeighbour,5,Lying down,Walking,0
+rawSubsample,kNearestNeighbour,5,Lying down,Climbing stairs,0
+rawSubsample,kNearestNeighbour,5,Lying down,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Lying down,Frontal elevation of arms,0
+rawSubsample,kNearestNeighbour,5,Lying down,Knees bending,0
+rawSubsample,kNearestNeighbour,5,Lying down,Cycling,0
+rawSubsample,kNearestNeighbour,5,Lying down,Jogging,0
+rawSubsample,kNearestNeighbour,5,Lying down,Running,0
+rawSubsample,kNearestNeighbour,5,Lying down,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Walking,Standing still,6
+rawSubsample,kNearestNeighbour,5,Walking,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Walking,Lying down,0
+rawSubsample,kNearestNeighbour,5,Walking,Walking,1375
+rawSubsample,kNearestNeighbour,5,Walking,Climbing stairs,110
+rawSubsample,kNearestNeighbour,5,Walking,Waist bends forward,14
+rawSubsample,kNearestNeighbour,5,Walking,Frontal elevation of arms,8
+rawSubsample,kNearestNeighbour,5,Walking,Knees bending,27
+rawSubsample,kNearestNeighbour,5,Walking,Cycling,0
+rawSubsample,kNearestNeighbour,5,Walking,Jogging,0
+rawSubsample,kNearestNeighbour,5,Walking,Running,0
+rawSubsample,kNearestNeighbour,5,Walking,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Standing still,6
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Sitting and relaxing,2
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Lying down,0
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Walking,119
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Climbing stairs,1317
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Waist bends forward,13
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Frontal elevation of arms,11
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Knees bending,65
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Cycling,2
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Jogging,4
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Running,1
+rawSubsample,kNearestNeighbour,5,Climbing stairs,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Standing still,11
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Sitting and relaxing,1
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Lying down,0
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Walking,6
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Climbing stairs,4
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Waist bends forward,1343
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Frontal elevation of arms,15
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Knees bending,36
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Cycling,0
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Jogging,0
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Running,0
+rawSubsample,kNearestNeighbour,5,Waist bends forward,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Standing still,5
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Sitting and relaxing,3
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Lying down,0
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Walking,1
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Climbing stairs,1
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Waist bends forward,5
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Frontal elevation of arms,1443
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Knees bending,13
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Cycling,0
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Jogging,0
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Running,0
+rawSubsample,kNearestNeighbour,5,Frontal elevation of arms,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Knees bending,Standing still,18
+rawSubsample,kNearestNeighbour,5,Knees bending,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Knees bending,Lying down,0
+rawSubsample,kNearestNeighbour,5,Knees bending,Walking,22
+rawSubsample,kNearestNeighbour,5,Knees bending,Climbing stairs,52
+rawSubsample,kNearestNeighbour,5,Knees bending,Waist bends forward,57
+rawSubsample,kNearestNeighbour,5,Knees bending,Frontal elevation of arms,30
+rawSubsample,kNearestNeighbour,5,Knees bending,Knees bending,1282
+rawSubsample,kNearestNeighbour,5,Knees bending,Cycling,5
+rawSubsample,kNearestNeighbour,5,Knees bending,Jogging,0
+rawSubsample,kNearestNeighbour,5,Knees bending,Running,1
+rawSubsample,kNearestNeighbour,5,Knees bending,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Cycling,Standing still,0
+rawSubsample,kNearestNeighbour,5,Cycling,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Cycling,Lying down,0
+rawSubsample,kNearestNeighbour,5,Cycling,Walking,0
+rawSubsample,kNearestNeighbour,5,Cycling,Climbing stairs,1
+rawSubsample,kNearestNeighbour,5,Cycling,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Cycling,Frontal elevation of arms,1
+rawSubsample,kNearestNeighbour,5,Cycling,Knees bending,6
+rawSubsample,kNearestNeighbour,5,Cycling,Cycling,1532
+rawSubsample,kNearestNeighbour,5,Cycling,Jogging,0
+rawSubsample,kNearestNeighbour,5,Cycling,Running,0
+rawSubsample,kNearestNeighbour,5,Cycling,Jump front and back,0
+rawSubsample,kNearestNeighbour,5,Jogging,Standing still,0
+rawSubsample,kNearestNeighbour,5,Jogging,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Jogging,Lying down,0
+rawSubsample,kNearestNeighbour,5,Jogging,Walking,15
+rawSubsample,kNearestNeighbour,5,Jogging,Climbing stairs,13
+rawSubsample,kNearestNeighbour,5,Jogging,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Jogging,Frontal elevation of arms,3
+rawSubsample,kNearestNeighbour,5,Jogging,Knees bending,6
+rawSubsample,kNearestNeighbour,5,Jogging,Cycling,0
+rawSubsample,kNearestNeighbour,5,Jogging,Jogging,1321
+rawSubsample,kNearestNeighbour,5,Jogging,Running,165
+rawSubsample,kNearestNeighbour,5,Jogging,Jump front and back,17
+rawSubsample,kNearestNeighbour,5,Running,Standing still,0
+rawSubsample,kNearestNeighbour,5,Running,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Running,Lying down,0
+rawSubsample,kNearestNeighbour,5,Running,Walking,2
+rawSubsample,kNearestNeighbour,5,Running,Climbing stairs,6
+rawSubsample,kNearestNeighbour,5,Running,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Running,Frontal elevation of arms,2
+rawSubsample,kNearestNeighbour,5,Running,Knees bending,1
+rawSubsample,kNearestNeighbour,5,Running,Cycling,1
+rawSubsample,kNearestNeighbour,5,Running,Jogging,297
+rawSubsample,kNearestNeighbour,5,Running,Running,1214
+rawSubsample,kNearestNeighbour,5,Running,Jump front and back,17
+rawSubsample,kNearestNeighbour,5,Jump front and back,Standing still,0
+rawSubsample,kNearestNeighbour,5,Jump front and back,Sitting and relaxing,0
+rawSubsample,kNearestNeighbour,5,Jump front and back,Lying down,0
+rawSubsample,kNearestNeighbour,5,Jump front and back,Walking,10
+rawSubsample,kNearestNeighbour,5,Jump front and back,Climbing stairs,17
+rawSubsample,kNearestNeighbour,5,Jump front and back,Waist bends forward,0
+rawSubsample,kNearestNeighbour,5,Jump front and back,Frontal elevation of arms,1
+rawSubsample,kNearestNeighbour,5,Jump front and back,Knees bending,2
+rawSubsample,kNearestNeighbour,5,Jump front and back,Cycling,1
+rawSubsample,kNearestNeighbour,5,Jump front and back,Jogging,79
+rawSubsample,kNearestNeighbour,5,Jump front and back,Running,55
+rawSubsample,kNearestNeighbour,5,Jump front and back,Jump front and back,351
+rawFull,hiddenMarkovModel,6,Standing still,Standing still,13377
+rawFull,hiddenMarkovModel,6,Standing still,Sitting and relaxing,0
+rawFull,hiddenMarkovModel,6,Standing still,Lying down,0
+rawFull,hiddenMarkovModel,6,Standing still,Walking,447
+rawFull,hiddenMarkovModel,6,Standing still,Climbing stairs,0
+rawFull,hiddenMarkovModel,6,Standing still,Waist bends forward,0
+rawFull,hiddenMarkovModel,6,Standing still,Frontal elevation of arms,1098
+rawFull,hiddenMarkovModel,6,Standing still,Knees bending,438
+rawFull,hiddenMarkovModel,6,Standing still,Cycling,0
+rawFull,hiddenMarkovModel,6,Standing still,Jogging,0
+rawFull,hiddenMarkovModel,6,Standing still,Running,0
+rawFull,hiddenMarkovModel,6,Standing still,Jump front and back,0
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Standing still,5850
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Sitting and relaxing,2001
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Lying down,1052
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Walking,640
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Climbing stairs,154
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Waist bends forward,0
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Frontal elevation of arms,3844
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Knees bending,569
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Cycling,1074
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Jogging,176
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Running,0
+rawFull,hiddenMarkovModel,6,Sitting and relaxing,Jump front and back,0
+rawFull,hiddenMarkovModel,6,Lying down,Standing still,0
+rawFull,hiddenMarkovModel,6,Lying down,Sitting and relaxing,309
+rawFull,hiddenMarkovModel,6,Lying down,Lying down,14241
+rawFull,hiddenMarkovModel,6,Lying down,Walking,0
+rawFull,hiddenMarkovModel,6,Lying down,Climbing stairs,0
+rawFull,hiddenMarkovModel,6,Lying down,Waist bends forward,0
+rawFull,hiddenMarkovModel,6,Lying down,Frontal elevation of arms,490
+rawFull,hiddenMarkovModel,6,Lying down,Knees bending,0
+rawFull,hiddenMarkovModel,6,Lying down,Cycling,166
+rawFull,hiddenMarkovModel,6,Lying down,Jogging,0
+rawFull,hiddenMarkovModel,6,Lying down,Running,0
+rawFull,hiddenMarkovModel,6,Lying down,Jump front and back,154
+rawFull,hiddenMarkovModel,6,Walking,Standing still,2343
+rawFull,hiddenMarkovModel,6,Walking,Sitting and relaxing,0
+rawFull,hiddenMarkovModel,6,Walking,Lying down,1
+rawFull,hiddenMarkovModel,6,Walking,Walking,12445
+rawFull,hiddenMarkovModel,6,Walking,Climbing stairs,1
+rawFull,hiddenMarkovModel,6,Walking,Waist bends forward,0
+rawFull,hiddenMarkovModel,6,Walking,Frontal elevation of arms,13
+rawFull,hiddenMarkovModel,6,Walking,Knees bending,555
+rawFull,hiddenMarkovModel,6,Walking,Cycling,0
+rawFull,hiddenMarkovModel,6,Walking,Jogging,0
+rawFull,hiddenMarkovModel,6,Walking,Running,0
+rawFull,hiddenMarkovModel,6,Walking,Jump front and back,2
+rawFull,hiddenMarkovModel,6,Climbing stairs,Standing still,2233
+rawFull,hiddenMarkovModel,6,Climbing stairs,Sitting and relaxing,16
+rawFull,hiddenMarkovModel,6,Climbing stairs,Lying down,7
+rawFull,hiddenMarkovModel,6,Climbing stairs,Walking,11578
+rawFull,hiddenMarkovModel,6,Climbing stairs,Climbing stairs,63
+rawFull,hiddenMarkovModel,6,Climbing stairs,Waist bends forward,3
+rawFull,hiddenMarkovModel,6,Climbing stairs,Frontal elevation of arms,16
+rawFull,hiddenMarkovModel,6,Climbing stairs,Knees bending,1273
+rawFull,hiddenMarkovModel,6,Climbing stairs,Cycling,7
+rawFull,hiddenMarkovModel,6,Climbing stairs,Jogging,63
+rawFull,hiddenMarkovModel,6,Climbing stairs,Running,24
+rawFull,hiddenMarkovModel,6,Climbing stairs,Jump front and back,77
+rawFull,hiddenMarkovModel,6,Waist bends forward,Standing still,1427
+rawFull,hiddenMarkovModel,6,Waist bends forward,Sitting and relaxing,36
+rawFull,hiddenMarkovModel,6,Waist bends forward,Lying down,4
+rawFull,hiddenMarkovModel,6,Waist bends forward,Walking,2604
+rawFull,hiddenMarkovModel,6,Waist bends forward,Climbing stairs,4
+rawFull,hiddenMarkovModel,6,Waist bends forward,Waist bends forward,7397
+rawFull,hiddenMarkovModel,6,Waist bends forward,Frontal elevation of arms,71
+rawFull,hiddenMarkovModel,6,Waist bends forward,Knees bending,1461
+rawFull,hiddenMarkovModel,6,Waist bends forward,Cycling,1155
+rawFull,hiddenMarkovModel,6,Waist bends forward,Jogging,0
+rawFull,hiddenMarkovModel,6,Waist bends forward,Running,0
+rawFull,hiddenMarkovModel,6,Waist bends forward,Jump front and back,0
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Standing still,6452
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Sitting and relaxing,1445
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Lying down,1239
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Walking,27
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Climbing stairs,0
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Waist bends forward,0
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Frontal elevation of arms,5400
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Knees bending,8
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Cycling,150
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Jogging,0
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Running,0
+rawFull,hiddenMarkovModel,6,Frontal elevation of arms,Jump front and back,0
+rawFull,hiddenMarkovModel,6,Knees bending,Standing still,1672
+rawFull,hiddenMarkovModel,6,Knees bending,Sitting and relaxing,4
+rawFull,hiddenMarkovModel,6,Knees bending,Lying down,0
+rawFull,hiddenMarkovModel,6,Knees bending,Walking,4411
+rawFull,hiddenMarkovModel,6,Knees bending,Climbing stairs,6
+rawFull,hiddenMarkovModel,6,Knees bending,Waist bends forward,1389
+rawFull,hiddenMarkovModel,6,Knees bending,Frontal elevation of arms,6
+rawFull,hiddenMarkovModel,6,Knees bending,Knees bending,5048
+rawFull,hiddenMarkovModel,6,Knees bending,Cycling,2134
+rawFull,hiddenMarkovModel,6,Knees bending,Jogging,1
+rawFull,hiddenMarkovModel,6,Knees bending,Running,0
+rawFull,hiddenMarkovModel,6,Knees bending,Jump front and back,0
+rawFull,hiddenMarkovModel,6,Cycling,Standing still,3070
+rawFull,hiddenMarkovModel,6,Cycling,Sitting and relaxing,0
+rawFull,hiddenMarkovModel,6,Cycling,Lying down,0
+rawFull,hiddenMarkovModel,6,Cycling,Walking,0
+rawFull,hiddenMarkovModel,6,Cycling,Climbing stairs,1
+rawFull,hiddenMarkovModel,6,Cycling,Waist bends forward,1415
+rawFull,hiddenMarkovModel,6,Cycling,Frontal elevation of arms,0
+rawFull,hiddenMarkovModel,6,Cycling,Knees bending,1
+rawFull,hiddenMarkovModel,6,Cycling,Cycling,10865
+rawFull,hiddenMarkovModel,6,Cycling,Jogging,3
+rawFull,hiddenMarkovModel,6,Cycling,Running,0
+rawFull,hiddenMarkovModel,6,Cycling,Jump front and back,5
+rawFull,hiddenMarkovModel,6,Jogging,Standing still,264
+rawFull,hiddenMarkovModel,6,Jogging,Sitting and relaxing,1332
+rawFull,hiddenMarkovModel,6,Jogging,Lying down,0
+rawFull,hiddenMarkovModel,6,Jogging,Walking,208
+rawFull,hiddenMarkovModel,6,Jogging,Climbing stairs,2308
+rawFull,hiddenMarkovModel,6,Jogging,Waist bends forward,134
+rawFull,hiddenMarkovModel,6,Jogging,Frontal elevation of arms,1202
+rawFull,hiddenMarkovModel,6,Jogging,Knees bending,560
+rawFull,hiddenMarkovModel,6,Jogging,Cycling,89
+rawFull,hiddenMarkovModel,6,Jogging,Jogging,3228
+rawFull,hiddenMarkovModel,6,Jogging,Running,2894
+rawFull,hiddenMarkovModel,6,Jogging,Jump front and back,3141
+rawFull,hiddenMarkovModel,6,Running,Standing still,229
+rawFull,hiddenMarkovModel,6,Running,Sitting and relaxing,1118
+rawFull,hiddenMarkovModel,6,Running,Lying down,0
+rawFull,hiddenMarkovModel,6,Running,Walking,301
+rawFull,hiddenMarkovModel,6,Running,Climbing stairs,2339
+rawFull,hiddenMarkovModel,6,Running,Waist bends forward,161
+rawFull,hiddenMarkovModel,6,Running,Frontal elevation of arms,1326
+rawFull,hiddenMarkovModel,6,Running,Knees bending,725
+rawFull,hiddenMarkovModel,6,Running,Cycling,134
+rawFull,hiddenMarkovModel,6,Running,Jogging,3054
+rawFull,hiddenMarkovModel,6,Running,Running,3518
+rawFull,hiddenMarkovModel,6,Running,Jump front and back,2455
+rawFull,hiddenMarkovModel,6,Jump front and back,Standing still,114
+rawFull,hiddenMarkovModel,6,Jump front and back,Sitting and relaxing,625
+rawFull,hiddenMarkovModel,6,Jump front and back,Lying down,0
+rawFull,hiddenMarkovModel,6,Jump front and back,Walking,13
+rawFull,hiddenMarkovModel,6,Jump front and back,Climbing stairs,431
+rawFull,hiddenMarkovModel,6,Jump front and back,Waist bends forward,1
+rawFull,hiddenMarkovModel,6,Jump front and back,Frontal elevation of arms,333
+rawFull,hiddenMarkovModel,6,Jump front and back,Knees bending,201
+rawFull,hiddenMarkovModel,6,Jump front and back,Cycling,23
+rawFull,hiddenMarkovModel,6,Jump front and back,Jogging,434
+rawFull,hiddenMarkovModel,6,Jump front and back,Running,556
+rawFull,hiddenMarkovModel,6,Jump front and back,Jump front and back,2441
+features80,kNearestNeighbour,9,Standing still,Standing still,3030
+features80,kNearestNeighbour,9,Standing still,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Standing still,Lying down,0
+features80,kNearestNeighbour,9,Standing still,Walking,0
+features80,kNearestNeighbour,9,Standing still,Climbing stairs,0
+features80,kNearestNeighbour,9,Standing still,Waist bends forward,0
+features80,kNearestNeighbour,9,Standing still,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Standing still,Knees bending,0
+features80,kNearestNeighbour,9,Standing still,Cycling,0
+features80,kNearestNeighbour,9,Standing still,Jogging,0
+features80,kNearestNeighbour,9,Standing still,Running,0
+features80,kNearestNeighbour,9,Standing still,Jump front and back,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Standing still,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Sitting and relaxing,3030
+features80,kNearestNeighbour,9,Sitting and relaxing,Lying down,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Walking,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Climbing stairs,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Waist bends forward,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Knees bending,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Cycling,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Jogging,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Running,0
+features80,kNearestNeighbour,9,Sitting and relaxing,Jump front and back,0
+features80,kNearestNeighbour,9,Lying down,Standing still,0
+features80,kNearestNeighbour,9,Lying down,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Lying down,Lying down,3030
+features80,kNearestNeighbour,9,Lying down,Walking,0
+features80,kNearestNeighbour,9,Lying down,Climbing stairs,0
+features80,kNearestNeighbour,9,Lying down,Waist bends forward,0
+features80,kNearestNeighbour,9,Lying down,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Lying down,Knees bending,0
+features80,kNearestNeighbour,9,Lying down,Cycling,0
+features80,kNearestNeighbour,9,Lying down,Jogging,0
+features80,kNearestNeighbour,9,Lying down,Running,0
+features80,kNearestNeighbour,9,Lying down,Jump front and back,0
+features80,kNearestNeighbour,9,Walking,Standing still,0
+features80,kNearestNeighbour,9,Walking,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Walking,Lying down,0
+features80,kNearestNeighbour,9,Walking,Walking,3028
+features80,kNearestNeighbour,9,Walking,Climbing stairs,2
+features80,kNearestNeighbour,9,Walking,Waist bends forward,0
+features80,kNearestNeighbour,9,Walking,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Walking,Knees bending,0
+features80,kNearestNeighbour,9,Walking,Cycling,0
+features80,kNearestNeighbour,9,Walking,Jogging,0
+features80,kNearestNeighbour,9,Walking,Running,0
+features80,kNearestNeighbour,9,Walking,Jump front and back,0
+features80,kNearestNeighbour,9,Climbing stairs,Standing still,0
+features80,kNearestNeighbour,9,Climbing stairs,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Climbing stairs,Lying down,0
+features80,kNearestNeighbour,9,Climbing stairs,Walking,4
+features80,kNearestNeighbour,9,Climbing stairs,Climbing stairs,2996
+features80,kNearestNeighbour,9,Climbing stairs,Waist bends forward,0
+features80,kNearestNeighbour,9,Climbing stairs,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Climbing stairs,Knees bending,4
+features80,kNearestNeighbour,9,Climbing stairs,Cycling,0
+features80,kNearestNeighbour,9,Climbing stairs,Jogging,0
+features80,kNearestNeighbour,9,Climbing stairs,Running,0
+features80,kNearestNeighbour,9,Climbing stairs,Jump front and back,0
+features80,kNearestNeighbour,9,Waist bends forward,Standing still,1
+features80,kNearestNeighbour,9,Waist bends forward,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Waist bends forward,Lying down,0
+features80,kNearestNeighbour,9,Waist bends forward,Walking,0
+features80,kNearestNeighbour,9,Waist bends forward,Climbing stairs,0
+features80,kNearestNeighbour,9,Waist bends forward,Waist bends forward,2774
+features80,kNearestNeighbour,9,Waist bends forward,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Waist bends forward,Knees bending,12
+features80,kNearestNeighbour,9,Waist bends forward,Cycling,0
+features80,kNearestNeighbour,9,Waist bends forward,Jogging,0
+features80,kNearestNeighbour,9,Waist bends forward,Running,0
+features80,kNearestNeighbour,9,Waist bends forward,Jump front and back,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Standing still,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Lying down,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Walking,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Climbing stairs,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Waist bends forward,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Frontal elevation of arms,2900
+features80,kNearestNeighbour,9,Frontal elevation of arms,Knees bending,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Cycling,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Jogging,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Running,0
+features80,kNearestNeighbour,9,Frontal elevation of arms,Jump front and back,0
+features80,kNearestNeighbour,9,Knees bending,Standing still,2
+features80,kNearestNeighbour,9,Knees bending,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Knees bending,Lying down,0
+features80,kNearestNeighbour,9,Knees bending,Walking,0
+features80,kNearestNeighbour,9,Knees bending,Climbing stairs,6
+features80,kNearestNeighbour,9,Knees bending,Waist bends forward,20
+features80,kNearestNeighbour,9,Knees bending,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Knees bending,Knees bending,2863
+features80,kNearestNeighbour,9,Knees bending,Cycling,0
+features80,kNearestNeighbour,9,Knees bending,Jogging,0
+features80,kNearestNeighbour,9,Knees bending,Running,0
+features80,kNearestNeighbour,9,Knees bending,Jump front and back,0
+features80,kNearestNeighbour,9,Cycling,Standing still,0
+features80,kNearestNeighbour,9,Cycling,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Cycling,Lying down,0
+features80,kNearestNeighbour,9,Cycling,Walking,0
+features80,kNearestNeighbour,9,Cycling,Climbing stairs,0
+features80,kNearestNeighbour,9,Cycling,Waist bends forward,0
+features80,kNearestNeighbour,9,Cycling,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Cycling,Knees bending,0
+features80,kNearestNeighbour,9,Cycling,Cycling,3030
+features80,kNearestNeighbour,9,Cycling,Jogging,0
+features80,kNearestNeighbour,9,Cycling,Running,0
+features80,kNearestNeighbour,9,Cycling,Jump front and back,0
+features80,kNearestNeighbour,9,Jogging,Standing still,0
+features80,kNearestNeighbour,9,Jogging,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Jogging,Lying down,0
+features80,kNearestNeighbour,9,Jogging,Walking,0
+features80,kNearestNeighbour,9,Jogging,Climbing stairs,0
+features80,kNearestNeighbour,9,Jogging,Waist bends forward,0
+features80,kNearestNeighbour,9,Jogging,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Jogging,Knees bending,0
+features80,kNearestNeighbour,9,Jogging,Cycling,0
+features80,kNearestNeighbour,9,Jogging,Jogging,3007
+features80,kNearestNeighbour,9,Jogging,Running,23
+features80,kNearestNeighbour,9,Jogging,Jump front and back,0
+features80,kNearestNeighbour,9,Running,Standing still,0
+features80,kNearestNeighbour,9,Running,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Running,Lying down,0
+features80,kNearestNeighbour,9,Running,Walking,0
+features80,kNearestNeighbour,9,Running,Climbing stairs,0
+features80,kNearestNeighbour,9,Running,Waist bends forward,0
+features80,kNearestNeighbour,9,Running,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Running,Knees bending,0
+features80,kNearestNeighbour,9,Running,Cycling,0
+features80,kNearestNeighbour,9,Running,Jogging,46
+features80,kNearestNeighbour,9,Running,Running,2984
+features80,kNearestNeighbour,9,Running,Jump front and back,0
+features80,kNearestNeighbour,9,Jump front and back,Standing still,0
+features80,kNearestNeighbour,9,Jump front and back,Sitting and relaxing,0
+features80,kNearestNeighbour,9,Jump front and back,Lying down,0
+features80,kNearestNeighbour,9,Jump front and back,Walking,0
+features80,kNearestNeighbour,9,Jump front and back,Climbing stairs,0
+features80,kNearestNeighbour,9,Jump front and back,Waist bends forward,0
+features80,kNearestNeighbour,9,Jump front and back,Frontal elevation of arms,0
+features80,kNearestNeighbour,9,Jump front and back,Knees bending,0
+features80,kNearestNeighbour,9,Jump front and back,Cycling,0
+features80,kNearestNeighbour,9,Jump front and back,Jogging,0
+features80,kNearestNeighbour,9,Jump front and back,Running,0
+features80,kNearestNeighbour,9,Jump front and back,Jump front and back,990
+features80,hiddenMarkovModel,10,Standing still,Standing still,2986
+features80,hiddenMarkovModel,10,Standing still,Sitting and relaxing,41
+features80,hiddenMarkovModel,10,Standing still,Lying down,0
+features80,hiddenMarkovModel,10,Standing still,Walking,0
+features80,hiddenMarkovModel,10,Standing still,Climbing stairs,0
+features80,hiddenMarkovModel,10,Standing still,Waist bends forward,0
+features80,hiddenMarkovModel,10,Standing still,Frontal elevation of arms,3
+features80,hiddenMarkovModel,10,Standing still,Knees bending,0
+features80,hiddenMarkovModel,10,Standing still,Cycling,0
+features80,hiddenMarkovModel,10,Standing still,Jogging,0
+features80,hiddenMarkovModel,10,Standing still,Running,0
+features80,hiddenMarkovModel,10,Standing still,Jump front and back,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Standing still,1093
+features80,hiddenMarkovModel,10,Sitting and relaxing,Sitting and relaxing,1477
+features80,hiddenMarkovModel,10,Sitting and relaxing,Lying down,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Walking,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Climbing stairs,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Waist bends forward,29
+features80,hiddenMarkovModel,10,Sitting and relaxing,Frontal elevation of arms,431
+features80,hiddenMarkovModel,10,Sitting and relaxing,Knees bending,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Cycling,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Jogging,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Running,0
+features80,hiddenMarkovModel,10,Sitting and relaxing,Jump front and back,0
+features80,hiddenMarkovModel,10,Lying down,Standing still,0
+features80,hiddenMarkovModel,10,Lying down,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Lying down,Lying down,2942
+features80,hiddenMarkovModel,10,Lying down,Walking,0
+features80,hiddenMarkovModel,10,Lying down,Climbing stairs,0
+features80,hiddenMarkovModel,10,Lying down,Waist bends forward,0
+features80,hiddenMarkovModel,10,Lying down,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Lying down,Knees bending,88
+features80,hiddenMarkovModel,10,Lying down,Cycling,0
+features80,hiddenMarkovModel,10,Lying down,Jogging,0
+features80,hiddenMarkovModel,10,Lying down,Running,0
+features80,hiddenMarkovModel,10,Lying down,Jump front and back,0
+features80,hiddenMarkovModel,10,Walking,Standing still,6
+features80,hiddenMarkovModel,10,Walking,Sitting and relaxing,1
+features80,hiddenMarkovModel,10,Walking,Lying down,0
+features80,hiddenMarkovModel,10,Walking,Walking,2834
+features80,hiddenMarkovModel,10,Walking,Climbing stairs,187
+features80,hiddenMarkovModel,10,Walking,Waist bends forward,0
+features80,hiddenMarkovModel,10,Walking,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Walking,Knees bending,2
+features80,hiddenMarkovModel,10,Walking,Cycling,0
+features80,hiddenMarkovModel,10,Walking,Jogging,0
+features80,hiddenMarkovModel,10,Walking,Running,0
+features80,hiddenMarkovModel,10,Walking,Jump front and back,0
+features80,hiddenMarkovModel,10,Climbing stairs,Standing still,305
+features80,hiddenMarkovModel,10,Climbing stairs,Sitting and relaxing,84
+features80,hiddenMarkovModel,10,Climbing stairs,Lying down,0
+features80,hiddenMarkovModel,10,Climbing stairs,Walking,1204
+features80,hiddenMarkovModel,10,Climbing stairs,Climbing stairs,1201
+features80,hiddenMarkovModel,10,Climbing stairs,Waist bends forward,31
+features80,hiddenMarkovModel,10,Climbing stairs,Frontal elevation of arms,76
+features80,hiddenMarkovModel,10,Climbing stairs,Knees bending,86
+features80,hiddenMarkovModel,10,Climbing stairs,Cycling,11
+features80,hiddenMarkovModel,10,Climbing stairs,Jogging,0
+features80,hiddenMarkovModel,10,Climbing stairs,Running,0
+features80,hiddenMarkovModel,10,Climbing stairs,Jump front and back,6
+features80,hiddenMarkovModel,10,Waist bends forward,Standing still,482
+features80,hiddenMarkovModel,10,Waist bends forward,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Waist bends forward,Lying down,0
+features80,hiddenMarkovModel,10,Waist bends forward,Walking,1
+features80,hiddenMarkovModel,10,Waist bends forward,Climbing stairs,89
+features80,hiddenMarkovModel,10,Waist bends forward,Waist bends forward,2126
+features80,hiddenMarkovModel,10,Waist bends forward,Frontal elevation of arms,3
+features80,hiddenMarkovModel,10,Waist bends forward,Knees bending,82
+features80,hiddenMarkovModel,10,Waist bends forward,Cycling,4
+features80,hiddenMarkovModel,10,Waist bends forward,Jogging,0
+features80,hiddenMarkovModel,10,Waist bends forward,Running,0
+features80,hiddenMarkovModel,10,Waist bends forward,Jump front and back,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Standing still,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Lying down,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Walking,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Climbing stairs,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Waist bends forward,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Frontal elevation of arms,2900
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Knees bending,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Cycling,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Jogging,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Running,0
+features80,hiddenMarkovModel,10,Frontal elevation of arms,Jump front and back,0
+features80,hiddenMarkovModel,10,Knees bending,Standing still,388
+features80,hiddenMarkovModel,10,Knees bending,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Knees bending,Lying down,0
+features80,hiddenMarkovModel,10,Knees bending,Walking,97
+features80,hiddenMarkovModel,10,Knees bending,Climbing stairs,532
+features80,hiddenMarkovModel,10,Knees bending,Waist bends forward,680
+features80,hiddenMarkovModel,10,Knees bending,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Knees bending,Knees bending,290
+features80,hiddenMarkovModel,10,Knees bending,Cycling,904
+features80,hiddenMarkovModel,10,Knees bending,Jogging,0
+features80,hiddenMarkovModel,10,Knees bending,Running,0
+features80,hiddenMarkovModel,10,Knees bending,Jump front and back,0
+features80,hiddenMarkovModel,10,Cycling,Standing still,14
+features80,hiddenMarkovModel,10,Cycling,Sitting and relaxing,4
+features80,hiddenMarkovModel,10,Cycling,Lying down,0
+features80,hiddenMarkovModel,10,Cycling,Walking,0
+features80,hiddenMarkovModel,10,Cycling,Climbing stairs,8
+features80,hiddenMarkovModel,10,Cycling,Waist bends forward,155
+features80,hiddenMarkovModel,10,Cycling,Frontal elevation of arms,4
+features80,hiddenMarkovModel,10,Cycling,Knees bending,5
+features80,hiddenMarkovModel,10,Cycling,Cycling,2840
+features80,hiddenMarkovModel,10,Cycling,Jogging,0
+features80,hiddenMarkovModel,10,Cycling,Running,0
+features80,hiddenMarkovModel,10,Cycling,Jump front and back,0
+features80,hiddenMarkovModel,10,Jogging,Standing still,0
+features80,hiddenMarkovModel,10,Jogging,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Jogging,Lying down,0
+features80,hiddenMarkovModel,10,Jogging,Walking,0
+features80,hiddenMarkovModel,10,Jogging,Climbing stairs,0
+features80,hiddenMarkovModel,10,Jogging,Waist bends forward,0
+features80,hiddenMarkovModel,10,Jogging,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Jogging,Knees bending,85
+features80,hiddenMarkovModel,10,Jogging,Cycling,0
+features80,hiddenMarkovModel,10,Jogging,Jogging,2308
+features80,hiddenMarkovModel,10,Jogging,Running,82
+features80,hiddenMarkovModel,10,Jogging,Jump front and back,555
+features80,hiddenMarkovModel,10,Running,Standing still,0
+features80,hiddenMarkovModel,10,Running,Sitting and relaxing,102
+features80,hiddenMarkovModel,10,Running,Lying down,0
+features80,hiddenMarkovModel,10,Running,Walking,0
+features80,hiddenMarkovModel,10,Running,Climbing stairs,228
+features80,hiddenMarkovModel,10,Running,Waist bends forward,0
+features80,hiddenMarkovModel,10,Running,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Running,Knees bending,547
+features80,hiddenMarkovModel,10,Running,Cycling,0
+features80,hiddenMarkovModel,10,Running,Jogging,442
+features80,hiddenMarkovModel,10,Running,Running,1358
+features80,hiddenMarkovModel,10,Running,Jump front and back,353
+features80,hiddenMarkovModel,10,Jump front and back,Standing still,0
+features80,hiddenMarkovModel,10,Jump front and back,Sitting and relaxing,0
+features80,hiddenMarkovModel,10,Jump front and back,Lying down,0
+features80,hiddenMarkovModel,10,Jump front and back,Walking,0
+features80,hiddenMarkovModel,10,Jump front and back,Climbing stairs,0
+features80,hiddenMarkovModel,10,Jump front and back,Waist bends forward,0
+features80,hiddenMarkovModel,10,Jump front and back,Frontal elevation of arms,0
+features80,hiddenMarkovModel,10,Jump front and back,Knees bending,0
+features80,hiddenMarkovModel,10,Jump front and back,Cycling,0
+features80,hiddenMarkovModel,10,Jump front and back,Jogging,102
+features80,hiddenMarkovModel,10,Jump front and back,Running,0
+features80,hiddenMarkovModel,10,Jump front and back,Jump front and back,888

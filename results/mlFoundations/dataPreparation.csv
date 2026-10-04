@@ -1,0 +1,15 @@
+step,transformer,setting,check,before,after
+scaling,MinMaxScaler,"feature_range (0, 1)",smallest value,-1.000000,0.000000
+scaling,MinMaxScaler,"feature_range (0, 1)",largest value,1.000000,1.000000
+normalization,Normalizer,norm l2,smallest window norm,10.687252,1.000000
+normalization,Normalizer,norm l2,largest window norm,20.431493,1.000000
+binarization,Binarizer,threshold 0,"share of values above the threshold, then share of ones",0.197627,0.197627
+standardization,StandardScaler,default,largest absolute feature mean,0.984059,0.000000
+standardization,StandardScaler,default,smallest feature standard deviation,0.040808,1.000000
+standardization,StandardScaler,default,largest feature standard deviation,0.751682,1.000000
+label encoding,LabelEncoder,classes in sorted order,code of LAYING,,0.000000
+label encoding,LabelEncoder,classes in sorted order,code of SITTING,,1.000000
+label encoding,LabelEncoder,classes in sorted order,code of STANDING,,2.000000
+label encoding,LabelEncoder,classes in sorted order,code of WALKING,,3.000000
+label encoding,LabelEncoder,classes in sorted order,code of WALKING_DOWNSTAIRS,,4.000000
+label encoding,LabelEncoder,classes in sorted order,code of WALKING_UPSTAIRS,,5.000000

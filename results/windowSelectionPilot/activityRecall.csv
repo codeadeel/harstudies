@@ -1,0 +1,323 @@
+method,budgetPercent,activity,windows,recall
+random,20,blow-dry,159,0.000000
+random,20,change clothes,12424,0.487470
+random,20,clean up,5010,0.000000
+random,20,collect dishes,2177,0.003369
+random,20,comb hair,493,0.000000
+random,20,deliver food,3755,0.144163
+random,20,dental care,828,0.012077
+random,20,documentation,794,0.031066
+random,20,kitchen preparation,5293,0.000441
+random,20,make bed,4839,0.213749
+random,20,null - activity,43686,0.866593
+random,20,pour drinks,1019,0.000000
+random,20,prepare bath,1928,0.000000
+random,20,push wheelchair,3450,0.286860
+random,20,put accessories,250,0.000000
+random,20,put food on plate,2968,0.196429
+random,20,put medication,1200,0.000000
+random,20,serve food,9087,0.550237
+random,20,wash at sink,3494,0.022896
+random,20,wash hair,62,0.000000
+random,20,wash in bed,5989,0.104358
+random,20,wheelchair transfer,1353,0.000000
+random,20,wipe up,300,0.000000
+random,100,blow-dry,159,0.000000
+random,100,change clothes,12424,0.501771
+random,100,clean up,5010,0.000000
+random,100,collect dishes,2177,0.003215
+random,100,comb hair,493,0.000000
+random,100,deliver food,3755,0.172037
+random,100,dental care,828,0.007246
+random,100,documentation,794,0.036524
+random,100,kitchen preparation,5293,0.000567
+random,100,make bed,4839,0.212854
+random,100,null - activity,43686,0.881495
+random,100,pour drinks,1019,0.000000
+random,100,prepare bath,1928,0.000000
+random,100,push wheelchair,3450,0.328406
+random,100,put accessories,250,0.000000
+random,100,put food on plate,2968,0.212601
+random,100,put medication,1200,0.000000
+random,100,serve food,9087,0.561682
+random,100,wash at sink,3494,0.026903
+random,100,wash hair,62,0.000000
+random,100,wash in bed,5989,0.109033
+random,100,wheelchair transfer,1353,0.000000
+random,100,wipe up,300,0.000000
+uniformStride,20,blow-dry,159,0.000000
+uniformStride,20,change clothes,12424,0.505795
+uniformStride,20,clean up,5010,0.000000
+uniformStride,20,collect dishes,2177,0.002297
+uniformStride,20,comb hair,493,0.000000
+uniformStride,20,deliver food,3755,0.159254
+uniformStride,20,dental care,828,0.012077
+uniformStride,20,documentation,794,0.049118
+uniformStride,20,kitchen preparation,5293,0.000945
+uniformStride,20,make bed,4839,0.216160
+uniformStride,20,null - activity,43686,0.877878
+uniformStride,20,pour drinks,1019,0.000000
+uniformStride,20,prepare bath,1928,0.000000
+uniformStride,20,push wheelchair,3450,0.286957
+uniformStride,20,put accessories,250,0.000000
+uniformStride,20,put food on plate,2968,0.202156
+uniformStride,20,put medication,1200,0.000000
+uniformStride,20,serve food,9087,0.571036
+uniformStride,20,wash at sink,3494,0.023183
+uniformStride,20,wash hair,62,0.000000
+uniformStride,20,wash in bed,5989,0.109200
+uniformStride,20,wheelchair transfer,1353,0.000000
+uniformStride,20,wipe up,300,0.000000
+uniformStride,100,blow-dry,159,0.000000
+uniformStride,100,change clothes,12424,0.501771
+uniformStride,100,clean up,5010,0.000000
+uniformStride,100,collect dishes,2177,0.003215
+uniformStride,100,comb hair,493,0.000000
+uniformStride,100,deliver food,3755,0.172037
+uniformStride,100,dental care,828,0.007246
+uniformStride,100,documentation,794,0.036524
+uniformStride,100,kitchen preparation,5293,0.000567
+uniformStride,100,make bed,4839,0.212854
+uniformStride,100,null - activity,43686,0.881495
+uniformStride,100,pour drinks,1019,0.000000
+uniformStride,100,prepare bath,1928,0.000000
+uniformStride,100,push wheelchair,3450,0.328406
+uniformStride,100,put accessories,250,0.000000
+uniformStride,100,put food on plate,2968,0.212601
+uniformStride,100,put medication,1200,0.000000
+uniformStride,100,serve food,9087,0.561682
+uniformStride,100,wash at sink,3494,0.026903
+uniformStride,100,wash hair,62,0.000000
+uniformStride,100,wash in bed,5989,0.109033
+uniformStride,100,wheelchair transfer,1353,0.000000
+uniformStride,100,wipe up,300,0.000000
+changeTrigger,20,blow-dry,159,0.000000
+changeTrigger,20,change clothes,12424,0.353751
+changeTrigger,20,clean up,5010,0.000000
+changeTrigger,20,collect dishes,2177,0.000000
+changeTrigger,20,comb hair,493,0.000000
+changeTrigger,20,deliver food,3755,0.127830
+changeTrigger,20,dental care,828,0.000000
+changeTrigger,20,documentation,794,0.000000
+changeTrigger,20,kitchen preparation,5293,0.000000
+changeTrigger,20,make bed,4839,0.263897
+changeTrigger,20,null - activity,43686,0.897610
+changeTrigger,20,pour drinks,1019,0.000000
+changeTrigger,20,prepare bath,1928,0.000000
+changeTrigger,20,push wheelchair,3450,0.108696
+changeTrigger,20,put accessories,250,0.000000
+changeTrigger,20,put food on plate,2968,0.077830
+changeTrigger,20,put medication,1200,0.000000
+changeTrigger,20,serve food,9087,0.224276
+changeTrigger,20,wash at sink,3494,0.011162
+changeTrigger,20,wash hair,62,0.000000
+changeTrigger,20,wash in bed,5989,0.049591
+changeTrigger,20,wheelchair transfer,1353,0.000000
+changeTrigger,20,wipe up,300,0.000000
+changeTrigger,100,blow-dry,159,0.000000
+changeTrigger,100,change clothes,12424,0.501771
+changeTrigger,100,clean up,5010,0.000000
+changeTrigger,100,collect dishes,2177,0.003215
+changeTrigger,100,comb hair,493,0.000000
+changeTrigger,100,deliver food,3755,0.172037
+changeTrigger,100,dental care,828,0.007246
+changeTrigger,100,documentation,794,0.036524
+changeTrigger,100,kitchen preparation,5293,0.000567
+changeTrigger,100,make bed,4839,0.212854
+changeTrigger,100,null - activity,43686,0.881495
+changeTrigger,100,pour drinks,1019,0.000000
+changeTrigger,100,prepare bath,1928,0.000000
+changeTrigger,100,push wheelchair,3450,0.328406
+changeTrigger,100,put accessories,250,0.000000
+changeTrigger,100,put food on plate,2968,0.212601
+changeTrigger,100,put medication,1200,0.000000
+changeTrigger,100,serve food,9087,0.561682
+changeTrigger,100,wash at sink,3494,0.026903
+changeTrigger,100,wash hair,62,0.000000
+changeTrigger,100,wash in bed,5989,0.109033
+changeTrigger,100,wheelchair transfer,1353,0.000000
+changeTrigger,100,wipe up,300,0.000000
+accelerationVariance,20,blow-dry,159,0.000000
+accelerationVariance,20,change clothes,12424,0.361639
+accelerationVariance,20,clean up,5010,0.000000
+accelerationVariance,20,collect dishes,2177,0.021589
+accelerationVariance,20,comb hair,493,0.000000
+accelerationVariance,20,deliver food,3755,0.300133
+accelerationVariance,20,dental care,828,0.000000
+accelerationVariance,20,documentation,794,0.000000
+accelerationVariance,20,kitchen preparation,5293,0.000000
+accelerationVariance,20,make bed,4839,0.355032
+accelerationVariance,20,null - activity,43686,0.873003
+accelerationVariance,20,pour drinks,1019,0.000000
+accelerationVariance,20,prepare bath,1928,0.000000
+accelerationVariance,20,push wheelchair,3450,0.345507
+accelerationVariance,20,put accessories,250,0.000000
+accelerationVariance,20,put food on plate,2968,0.068396
+accelerationVariance,20,put medication,1200,0.000000
+accelerationVariance,20,serve food,9087,0.223836
+accelerationVariance,20,wash at sink,3494,0.054665
+accelerationVariance,20,wash hair,62,0.000000
+accelerationVariance,20,wash in bed,5989,0.032059
+accelerationVariance,20,wheelchair transfer,1353,0.000000
+accelerationVariance,20,wipe up,300,0.000000
+accelerationVariance,100,blow-dry,159,0.000000
+accelerationVariance,100,change clothes,12424,0.501771
+accelerationVariance,100,clean up,5010,0.000000
+accelerationVariance,100,collect dishes,2177,0.003215
+accelerationVariance,100,comb hair,493,0.000000
+accelerationVariance,100,deliver food,3755,0.172037
+accelerationVariance,100,dental care,828,0.007246
+accelerationVariance,100,documentation,794,0.036524
+accelerationVariance,100,kitchen preparation,5293,0.000567
+accelerationVariance,100,make bed,4839,0.212854
+accelerationVariance,100,null - activity,43686,0.881495
+accelerationVariance,100,pour drinks,1019,0.000000
+accelerationVariance,100,prepare bath,1928,0.000000
+accelerationVariance,100,push wheelchair,3450,0.328406
+accelerationVariance,100,put accessories,250,0.000000
+accelerationVariance,100,put food on plate,2968,0.212601
+accelerationVariance,100,put medication,1200,0.000000
+accelerationVariance,100,serve food,9087,0.561682
+accelerationVariance,100,wash at sink,3494,0.026903
+accelerationVariance,100,wash hair,62,0.000000
+accelerationVariance,100,wash in bed,5989,0.109033
+accelerationVariance,100,wheelchair transfer,1353,0.000000
+accelerationVariance,100,wipe up,300,0.000000
+windowChange,20,blow-dry,159,0.000000
+windowChange,20,change clothes,12424,0.354797
+windowChange,20,clean up,5010,0.000000
+windowChange,20,collect dishes,2177,0.000000
+windowChange,20,comb hair,493,0.000000
+windowChange,20,deliver food,3755,0.126232
+windowChange,20,dental care,828,0.000000
+windowChange,20,documentation,794,0.000000
+windowChange,20,kitchen preparation,5293,0.000000
+windowChange,20,make bed,4839,0.264311
+windowChange,20,null - activity,43686,0.891979
+windowChange,20,pour drinks,1019,0.000000
+windowChange,20,prepare bath,1928,0.000000
+windowChange,20,push wheelchair,3450,0.107826
+windowChange,20,put accessories,250,0.000000
+windowChange,20,put food on plate,2968,0.067722
+windowChange,20,put medication,1200,0.000000
+windowChange,20,serve food,9087,0.272037
+windowChange,20,wash at sink,3494,0.014883
+windowChange,20,wash hair,62,0.000000
+windowChange,20,wash in bed,5989,0.056604
+windowChange,20,wheelchair transfer,1353,0.000000
+windowChange,20,wipe up,300,0.000000
+windowChange,100,blow-dry,159,0.000000
+windowChange,100,change clothes,12424,0.501771
+windowChange,100,clean up,5010,0.000000
+windowChange,100,collect dishes,2177,0.003215
+windowChange,100,comb hair,493,0.000000
+windowChange,100,deliver food,3755,0.172037
+windowChange,100,dental care,828,0.007246
+windowChange,100,documentation,794,0.036524
+windowChange,100,kitchen preparation,5293,0.000567
+windowChange,100,make bed,4839,0.212854
+windowChange,100,null - activity,43686,0.881495
+windowChange,100,pour drinks,1019,0.000000
+windowChange,100,prepare bath,1928,0.000000
+windowChange,100,push wheelchair,3450,0.328406
+windowChange,100,put accessories,250,0.000000
+windowChange,100,put food on plate,2968,0.212601
+windowChange,100,put medication,1200,0.000000
+windowChange,100,serve food,9087,0.561682
+windowChange,100,wash at sink,3494,0.026903
+windowChange,100,wash hair,62,0.000000
+windowChange,100,wash in bed,5989,0.109033
+windowChange,100,wheelchair transfer,1353,0.000000
+windowChange,100,wipe up,300,0.000000
+spectralEntropy,20,blow-dry,159,0.000000
+spectralEntropy,20,change clothes,12424,0.576384
+spectralEntropy,20,clean up,5010,0.000000
+spectralEntropy,20,collect dishes,2177,0.000000
+spectralEntropy,20,comb hair,493,0.000000
+spectralEntropy,20,deliver food,3755,0.006125
+spectralEntropy,20,dental care,828,0.000000
+spectralEntropy,20,documentation,794,0.045340
+spectralEntropy,20,kitchen preparation,5293,0.001134
+spectralEntropy,20,make bed,4839,0.157057
+spectralEntropy,20,null - activity,43686,0.792840
+spectralEntropy,20,pour drinks,1019,0.000000
+spectralEntropy,20,prepare bath,1928,0.000000
+spectralEntropy,20,push wheelchair,3450,0.149275
+spectralEntropy,20,put accessories,250,0.000000
+spectralEntropy,20,put food on plate,2968,0.159030
+spectralEntropy,20,put medication,1200,0.000000
+spectralEntropy,20,serve food,9087,0.597557
+spectralEntropy,20,wash at sink,3494,0.014310
+spectralEntropy,20,wash hair,62,0.000000
+spectralEntropy,20,wash in bed,5989,0.108532
+spectralEntropy,20,wheelchair transfer,1353,0.000000
+spectralEntropy,20,wipe up,300,0.000000
+spectralEntropy,100,blow-dry,159,0.000000
+spectralEntropy,100,change clothes,12424,0.501771
+spectralEntropy,100,clean up,5010,0.000000
+spectralEntropy,100,collect dishes,2177,0.003215
+spectralEntropy,100,comb hair,493,0.000000
+spectralEntropy,100,deliver food,3755,0.172037
+spectralEntropy,100,dental care,828,0.007246
+spectralEntropy,100,documentation,794,0.036524
+spectralEntropy,100,kitchen preparation,5293,0.000567
+spectralEntropy,100,make bed,4839,0.212854
+spectralEntropy,100,null - activity,43686,0.881495
+spectralEntropy,100,pour drinks,1019,0.000000
+spectralEntropy,100,prepare bath,1928,0.000000
+spectralEntropy,100,push wheelchair,3450,0.328406
+spectralEntropy,100,put accessories,250,0.000000
+spectralEntropy,100,put food on plate,2968,0.212601
+spectralEntropy,100,put medication,1200,0.000000
+spectralEntropy,100,serve food,9087,0.561682
+spectralEntropy,100,wash at sink,3494,0.026903
+spectralEntropy,100,wash hair,62,0.000000
+spectralEntropy,100,wash in bed,5989,0.109033
+spectralEntropy,100,wheelchair transfer,1353,0.000000
+spectralEntropy,100,wipe up,300,0.000000
+meanRank,20,blow-dry,159,0.000000
+meanRank,20,change clothes,12424,0.535174
+meanRank,20,clean up,5010,0.000000
+meanRank,20,collect dishes,2177,0.000000
+meanRank,20,comb hair,493,0.000000
+meanRank,20,deliver food,3755,0.120639
+meanRank,20,dental care,828,0.000000
+meanRank,20,documentation,794,0.000000
+meanRank,20,kitchen preparation,5293,0.000000
+meanRank,20,make bed,4839,0.309775
+meanRank,20,null - activity,43686,0.845145
+meanRank,20,pour drinks,1019,0.000000
+meanRank,20,prepare bath,1928,0.000000
+meanRank,20,push wheelchair,3450,0.291884
+meanRank,20,put accessories,250,0.000000
+meanRank,20,put food on plate,2968,0.068059
+meanRank,20,put medication,1200,0.000000
+meanRank,20,serve food,9087,0.241004
+meanRank,20,wash at sink,3494,0.041786
+meanRank,20,wash hair,62,0.000000
+meanRank,20,wash in bed,5989,0.062114
+meanRank,20,wheelchair transfer,1353,0.000000
+meanRank,20,wipe up,300,0.000000
+meanRank,100,blow-dry,159,0.000000
+meanRank,100,change clothes,12424,0.501771
+meanRank,100,clean up,5010,0.000000
+meanRank,100,collect dishes,2177,0.003215
+meanRank,100,comb hair,493,0.000000
+meanRank,100,deliver food,3755,0.172037
+meanRank,100,dental care,828,0.007246
+meanRank,100,documentation,794,0.036524
+meanRank,100,kitchen preparation,5293,0.000567
+meanRank,100,make bed,4839,0.212854
+meanRank,100,null - activity,43686,0.881495
+meanRank,100,pour drinks,1019,0.000000
+meanRank,100,prepare bath,1928,0.000000
+meanRank,100,push wheelchair,3450,0.328406
+meanRank,100,put accessories,250,0.000000
+meanRank,100,put food on plate,2968,0.212601
+meanRank,100,put medication,1200,0.000000
+meanRank,100,serve food,9087,0.561682
+meanRank,100,wash at sink,3494,0.026903
+meanRank,100,wash hair,62,0.000000
+meanRank,100,wash in bed,5989,0.109033
+meanRank,100,wheelchair transfer,1353,0.000000
+meanRank,100,wipe up,300,0.000000

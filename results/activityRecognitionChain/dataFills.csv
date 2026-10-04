@@ -1,0 +1,52 @@
+subject,imu,placement,runStart,runEnd,frames,labelCounts,equalsClassMean
+1,1,hand,62479,62480,1,1:1,False
+1,2,lowerArm,4379,4404,25,4:25,True
+1,2,lowerArm,11595,11603,8,4:8,True
+1,2,lowerArm,15620,15621,1,4:1,True
+1,2,lowerArm,62479,62480,1,1:1,False
+2,1,hand,0,251,251,1:251,True
+2,1,hand,70777,70778,1,1:1,True
+2,2,lowerArm,0,214,214,1:214,True
+2,2,lowerArm,512,569,57,1:57,True
+2,2,lowerArm,576,671,95,1:95,True
+2,2,lowerArm,743,836,93,1:93,True
+2,2,lowerArm,922,1088,166,1:166,True
+2,2,lowerArm,1544,1637,93,1:20 2:73,True
+2,2,lowerArm,1644,1646,2,1:2,True
+2,2,lowerArm,1696,1878,182,1:44 3:138,True
+2,2,lowerArm,1899,2063,164,1:57 4:107,True
+2,2,lowerArm,2084,2103,19,1:19,True
+2,2,lowerArm,2225,2256,31,1:30 5:1,True
+2,2,lowerArm,2263,2264,1,1:1,True
+2,2,lowerArm,2335,2361,26,6:26,True
+2,2,lowerArm,2576,2611,35,1:14 7:21,True
+2,2,lowerArm,2625,2641,16,7:16,True
+2,2,lowerArm,2705,2866,161,1:102 7:59,True
+2,2,lowerArm,2873,2898,25,1:25,True
+2,2,lowerArm,3005,3019,14,1:14,True
+2,2,lowerArm,3097,3117,20,1:20,True
+2,2,lowerArm,3445,3467,22,9:22,True
+2,2,lowerArm,4010,4066,56,1:56,True
+2,2,lowerArm,4280,4304,24,1:24,True
+2,2,lowerArm,5038,5102,64,1:2 2:62,True
+2,2,lowerArm,5117,5274,157,1:69 3:88,True
+2,2,lowerArm,5331,5456,125,1:33 4:92,True
+2,2,lowerArm,5478,5563,85,1:43 4:42,True
+2,2,lowerArm,5598,5769,171,1:75 5:96,True
+2,2,lowerArm,5805,5852,47,6:47,True
+2,2,lowerArm,6030,6048,18,1:18,True
+2,2,lowerArm,6119,6332,213,1:84 7:99 8:30,True
+2,2,lowerArm,7444,7485,41,1:41,True
+2,2,lowerArm,7884,8032,148,1:148,True
+2,2,lowerArm,8054,8058,4,1:4,True
+2,2,lowerArm,8136,8142,6,1:6,True
+2,2,lowerArm,8156,8182,26,1:26,True
+2,2,lowerArm,8625,8668,43,1:43,True
+2,2,lowerArm,8796,8821,25,1:25,True
+2,2,lowerArm,9206,9212,6,1:6,True
+2,2,lowerArm,11516,11518,2,1:2,True
+2,2,lowerArm,15903,15925,22,1:22,True
+2,2,lowerArm,17915,17934,19,1:19,True
+2,2,lowerArm,44297,44301,4,3:4,True
+2,2,lowerArm,70769,70778,9,1:9,True
+2,3,upperArm,0,257,257,1:257,True

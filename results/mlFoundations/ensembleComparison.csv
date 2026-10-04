@@ -1,0 +1,5 @@
+ensemble,setting,fitSeconds,testAccuracy,testMacroF1
+bagging,100 decision trees,142.232064,0.898541,0.896886
+randomForest,100 trees,4.742133,0.926705,0.925084
+adaBoost,50 decision stumps,24.233311,0.349169,0.202496
+voting,"hard vote of logistic regression, decision tree and RBF SVM",6.075048,0.955209,0.954905

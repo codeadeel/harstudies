@@ -1,0 +1,43 @@
+section,parameter,value
+run,randomSeed,42
+run,nJobs,4
+run,python,3.12.14
+run,numpy,2.5.3
+run,pandas,3.0.6
+run,scipy,1.18.1
+run,scikit-learn,1.9.1
+run,matplotlib,3.11.2
+windows,stepMicroseconds,16667.0
+windows,samplingRate,59.99880002399952
+windows,windowSeconds,2.0
+windows,windowSamples,120
+windows,gapFactor,1.5
+windows,bandEdges,0.5 1 2 4 8 16
+windows,channels,30
+windows,features,270
+recognizer,forestTrees,100
+recognizer,foldCount,5
+selection,budgetPercents,5 10 20 50 100
+selection,reportPercent,20
+selection,randomSeeds,42 43 44
+data,samples,13319475
+data,repeatedRows,28822
+data,windowedSamples,13266960
+data,streams,419
+data,filledValues,428136
+data,droppedStreams,2
+data,droppedStreamSamples,27
+data,tailSamples,23666
+data,recordings,254
+data,participants,14
+data,windows,110558
+data,windowStreams,419
+data,missingSamples,96094
+data,missingRuns,7466
+data,longestMissingRun,1400
+data,gaps,167
+data,medianAccelerationMagnitude,9.8428055
+data,lowestRecordingAccelerationMagnitude,9.743796
+data,highestRecordingAccelerationMagnitude,10.084184
+data,labels,23
+data,sourceUrl,https://zenodo.org/api/records/7881952/files/SONAR_ML.zip/content
